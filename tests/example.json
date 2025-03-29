@@ -1,0 +1,37 @@
+[
+  {
+    "type": "choose",
+    "text": "The cat is _____ the mat.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "She lives _____ a big house.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "The book is _____ the table.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "The dog is _____ the tree.",
+    "answer": "under"
+  },
+  {
+    "type": "choose",
+    "text": "We eat breakfast _____ the morning.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "She works _____ the hospital.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 2
+  }
+]

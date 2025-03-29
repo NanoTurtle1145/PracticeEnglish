@@ -1,0 +1,101 @@
+[
+  {
+    "type": "choose",
+    "text": "本题共有8个选项（选A）",
+    "choices": [
+      "好的",
+      "好的",
+      "好的",
+      "好的"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "fox",
+    "choices": [
+      "v. 欺骗",
+      "n. 狐狸",
+      "adj. 狡猾的",
+      "n. 盒子"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "giraffe",
+    "choices": [
+      "n. 河马",
+      "n. 长颈鹿",
+      "n. 犀牛",
+      "n. 斑马"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "eagle",
+    "choices": [
+      "n. 雕；鹰",
+      "n. 孔雀",
+      "n. 鹦鹉",
+      "n. 鸽子"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "dangerous",
+    "choices": [
+      "n. 危险",
+      "adv. 危险地",
+      "adj. 危险的",
+      "adj. 安全的"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "save",
+    "choices": [
+      "v. 浪费",
+      "adj. 安全的",
+      "v. 救；储蓄",
+      "n. 储蓄罐"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "take care of",
+    "choices": [
+      "忽略；忽视",
+      "关心；在乎",
+      "照顾；处理",
+      "小心；注意"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "scary",
+    "choices": [
+      "v. 惊吓",
+      "adj. 有趣的",
+      "n. 伤疤",
+      "adj. 吓人的；恐怖的"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "huge",
+    "choices": [
+      "n. 巨人",
+      "v. 拥抱",
+      "adj. 大的；极多的",
+      "adj. 微小的"
+    ],
+    "answer": 2
+  }
+]
