@@ -1,4 +1,4 @@
-('D:\\Desktop\\code\\practiceenglish\\PractiseEnglish\\build\\main\\PYZ-00.pyz',
+('D:\\Desktop\\code\\practiceenglish\\PracticeEnglish\\build\\main\\PYZ-00.pyz',
  [('PyQt5', 'D:\\Python\\Lib\\site-packages\\PyQt5\\__init__.py', 'PYMODULE'),
   ('_compat_pickle', 'D:\\Python\\Lib\\_compat_pickle.py', 'PYMODULE'),
   ('_compression', 'D:\\Python\\Lib\\_compression.py', 'PYMODULE'),

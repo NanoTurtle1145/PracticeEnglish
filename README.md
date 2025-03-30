@@ -34,6 +34,29 @@ Oh,my BROKEN English.
 
 ---
 
+# Windows10及以下想打包的看这里
+
+推荐使用**pyinstaller**。
+
+首先，打开cmd，输入
+
+``` cmd
+pip install pyinstaller
+```
+
+然后，转到源码目录
+
+输入
+
+``` cmd
+pyinstaller -F -w main.py
+```
+
+然后在```/dist/```里可找到```main.exe```。
+
+然后将源码中的```ui.ui```和```tests```文件夹复制到```/dist/```中即可食用。
+
+---
 
 # 更新日志
 
