@@ -13,43 +13,65 @@ class Ui_MainWindow(object):
         MainWindow.resize(592, 418)
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
-        self.choose_test = QtWidgets.QComboBox(self.centralwidget)
-        self.choose_test.setGeometry(QtCore.QRect(190, 90, 131, 21))
+
+        # 使用垂直布局
+        main_layout = QtWidgets.QVBoxLayout(self.centralwidget)
+
+        # 测试选择部分
+        test_choice_layout = QtWidgets.QHBoxLayout()
+        self.choose_test = QtWidgets.QComboBox()
         self.choose_test.setObjectName("choose_test")
         self.add_test()
-        self.label = QtWidgets.QLabel(self.centralwidget)
-        self.label.setGeometry(QtCore.QRect(10, 10, 571, 71))
+        self.start = QtWidgets.QPushButton("Start!")
+        self.start.setObjectName("start")
+        self.start.clicked.connect(self.start_test)
+        test_choice_layout.addWidget(self.choose_test)
+        test_choice_layout.addWidget(self.start)
+
+        self.label = QtWidgets.QLabel("    Let's Practise English!")
         font = QtGui.QFont()
         font.setPointSize(10)
         self.label.setFont(font)
         self.label.setObjectName("label")
-        self.start = QtWidgets.QPushButton(self.centralwidget)
-        self.start.setGeometry(QtCore.QRect(340, 90, 75, 23))
-        self.start.setObjectName("start")
-        self.start.clicked.connect(self.start_test)
-        self.choice1 = QtWidgets.QPushButton(self.centralwidget)
-        self.choice1.setGeometry(QtCore.QRect(170, 210, 261, 21))
-        self.choice1.setObjectName("choice1")
-        self.choice4 = QtWidgets.QPushButton(self.centralwidget)
-        self.choice4.setGeometry(QtCore.QRect(170, 330, 261, 21))
-        self.choice4.setObjectName("choice4")
-        self.choice3 = QtWidgets.QPushButton(self.centralwidget)
-        self.choice3.setGeometry(QtCore.QRect(170, 290, 261, 21))
-        self.choice3.setObjectName("choice3")
-        self.choice2 = QtWidgets.QPushButton(self.centralwidget)
-        self.choice2.setGeometry(QtCore.QRect(170, 250, 261, 21))
-        self.choice2.setObjectName("choice2")
-        self.text = QtWidgets.QLabel(self.centralwidget)
-        self.text.setGeometry(QtCore.QRect(10, 130, 571, 21))
+
+        # 问题显示部分
+        question_layout = QtWidgets.QVBoxLayout()
+        self.text = QtWidgets.QLabel("Your test here...")
         self.text.setObjectName("text")
-        self.ans = QtWidgets.QLineEdit(self.centralwidget)
-        self.ans.setGeometry(QtCore.QRect(170, 170, 261, 20))
+        question_layout.addWidget(self.text)
+
+        # 选项部分
+        choices_layout = QtWidgets.QVBoxLayout()
+        self.choice1 = QtWidgets.QPushButton("A...")
+        self.choice1.setObjectName("choice1")
+        self.choice2 = QtWidgets.QPushButton("B...")
+        self.choice2.setObjectName("choice2")
+        self.choice3 = QtWidgets.QPushButton("C...")
+        self.choice3.setObjectName("choice3")
+        self.choice4 = QtWidgets.QPushButton("D...")
+        self.choice4.setObjectName("choice4")
+        choices_layout.addWidget(self.choice1)
+        choices_layout.addWidget(self.choice2)
+        choices_layout.addWidget(self.choice3)
+        choices_layout.addWidget(self.choice4)
+
+        # 填空部分
+        blank_layout = QtWidgets.QHBoxLayout()
+        self.ans = QtWidgets.QLineEdit()
         self.ans.setObjectName("ans")
-        self.submit_button = QtWidgets.QPushButton(self.centralwidget)
-        self.submit_button.setGeometry(QtCore.QRect(440, 170, 75, 23))
+        self.submit_button = QtWidgets.QPushButton("提交")
         self.submit_button.setObjectName("submit_button")
-        self.submit_button.setText("提交")
         self.submit_button.clicked.connect(self.check_answer)
+        blank_layout.addWidget(self.ans)
+        blank_layout.addWidget(self.submit_button)
+
+        # 添加到主布局
+        main_layout.addWidget(self.label)
+        main_layout.addLayout(test_choice_layout)
+        main_layout.addLayout(question_layout)
+        main_layout.addLayout(choices_layout)
+        main_layout.addLayout(blank_layout)
+
         MainWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(MainWindow)
         self.menubar.setGeometry(QtCore.QRect(0, 0, 592, 22))
@@ -199,6 +221,41 @@ if __name__ == "__main__":
     QApplication.setAttribute(Qt.AA_EnableHighDpiScaling)
     QApplication.setAttribute(Qt.AA_UseHighDpiPixmaps)
     app = QtWidgets.QApplication(sys.argv)
+
+    # 添加样式表
+    style_sheet = """
+    QMainWindow {
+        background-color: #f0f0f0;
+    }
+    QLabel {
+        font-size: 12px;
+        color: #333;
+    }
+    QPushButton {
+        background-color: #007BFF;
+        color: white;
+        border: none;
+        padding: 5px 10px;
+        border-radius: 3px;
+    }
+    QPushButton:hover {
+        background-color: #0056b3;
+    }
+    QComboBox {
+        background-color: white;
+        border: 1px solid #ccc;
+        padding: 3px;
+        border-radius: 3px;
+    }
+    QLineEdit {
+        background-color: white;
+        border: 1px solid #ccc;
+        padding: 3px;
+        border-radius: 3px;
+    }
+    """
+    app.setStyleSheet(style_sheet)
+
     MainWindow = QtWidgets.QMainWindow()
     ui = Ui_MainWindow()
     ui.setupUi(MainWindow)
