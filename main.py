@@ -5,11 +5,12 @@ import sys
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QApplication
+from PyQt5 import uic  # 添加uic模块导入
 
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
-        MainWindow.setObjectName("MainWindow")
+        MainWindow.setObjectName("MainWindow ")
         MainWindow.resize(592, 418)
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
@@ -17,16 +18,25 @@ class Ui_MainWindow(object):
         # 使用垂直布局
         main_layout = QtWidgets.QVBoxLayout(self.centralwidget)
 
-        # 测试选择部分
+        # 测试选择部分（调整控件顺序）
         test_choice_layout = QtWidgets.QHBoxLayout()
         self.choose_test = QtWidgets.QComboBox()
         self.choose_test.setObjectName("choose_test")
         self.add_test()
+        
         self.start = QtWidgets.QPushButton("Start!")
         self.start.setObjectName("start")
         self.start.clicked.connect(self.start_test)
+        
+        # 退出按钮应放在最后
+        self.exit_button = QtWidgets.QPushButton("退出")
+        self.exit_button.setObjectName("exit")
+        self.exit_button.clicked.connect(self.exit_test)
+        
+        # 调整控件添加顺序：下拉框 -> 开始按钮 -> 退出按钮
         test_choice_layout.addWidget(self.choose_test)
         test_choice_layout.addWidget(self.start)
+        test_choice_layout.addWidget(self.exit_button)
 
         self.label = QtWidgets.QLabel("    Let's Practise English!")
         font = QtGui.QFont()
@@ -215,6 +225,24 @@ class Ui_MainWindow(object):
         self.choice4.setEnabled(True)
         self.ans.setEnabled(True)
         self.submit_button.setEnabled(False)  # 初始化时禁用提交按钮
+
+    def exit_test(self):
+        """中途退出测试"""
+        if hasattr(self, 'data') and self.data:
+            # 计算当前正确率
+            current_progress = f"当前正确率：{self.score}/{self.current_question_index}"
+            self.label.setText(f"已退出测试，{current_progress}")
+            
+            # 重置测试状态
+            self.current_question_index = 0
+            self.score = 0
+            del self.data
+            
+            # 恢复界面状态
+            self.disable_choices()
+            self.start.setEnabled(True)
+            self.choose_test.setEnabled(True)
+            self.text.setText("Your test here...")
 
 
 if __name__ == "__main__":

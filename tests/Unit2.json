@@ -1,0 +1,596 @@
+[
+  {
+    "type": "choose",
+    "text": "rule",
+    "choices": [
+      "adv.轻声地；安静地",
+      "n.人",
+      "n. 规则；规章",
+      "adj.不整洁的"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "order",
+    "choices": [
+      "n. 秩序，v. 点菜",
+      "adj.&v.糟糕的；讨厌的",
+      "adj. 有礼貌的",
+      "等待"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "follow",
+    "choices": [
+      "n.人",
+      "v. 到达",
+      "pron 每件事；一切",
+      "v. 遵循；跟随"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "be late ( for )",
+    "choices": [
+      "v. 到达",
+      "n.点心；小吃",
+      "n. 秩序，v. 点菜",
+      "v. 遵循；跟随"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "arrive",
+    "choices": [
+      "v. 到达",
+      "n.队",
+      "v.借给；借出",
+      "interj. 嘘（用以让别人安静下来）"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "on time",
+    "choices": [
+      "adj.缺席的；不在的",
+      "n. 规则；规章",
+      "v. 到达",
+      "n. 走廊"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "hallway",
+    "choices": [
+      "v. 对待；招待；治疗；n. 款待",
+      "n. 校服；制服",
+      "博士；医生",
+      "n.精神；情绪"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "uniform",
+    "choices": [
+      "conj.如果",
+      "n.点心；小吃",
+      "n. 乱认，n. 垃圾",
+      "adj.可移动的"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "litter",
+    "choices": [
+      "adj.不整洁的",
+      "adj. 有礼貌的",
+      "n. 建议；意见",
+      "n.人"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "polite",
+    "choices": [
+      "等待",
+      "v. 对待；招待；治疗；n. 款待",
+      "n.夹克衫；短上衣",
+      "a dj.较好的 adv.较好地"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "treat",
+    "choices": [
+      "v. 对待；招待；治疗；n. 款待",
+      "当然",
+      "思考；考虑",
+      "n.安全带；腰带；皮带"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "respect",
+    "choices": [
+      "adj. 有礼貌的",
+      "v. 对待；招待；治疗；n. 款待",
+      "n. 校服；制服",
+      "n.尊敬"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "if",
+    "choices": [
+      "conj.如果",
+      "v.离开；留下",
+      "adj.不快乐的",
+      "手机"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "jacket",
+    "choices": [
+      "n.夹克衫；短上衣",
+      "conj.如果",
+      "adj.可移动的",
+      "v. 到达"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "have to",
+    "choices": [
+      "关掉（水、电或煤气）",
+      "n.尊敬",
+      "不得不",
+      "闲逛；常去某处"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "everything",
+    "choices": [
+      "adj.不整洁的",
+      "n.安全带；腰带；皮带",
+      "pron 每件事；一切",
+      "n.糖果 adj.甜的"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "lend",
+    "choices": [
+      "v.借给；借出",
+      "n.集中（注意力，精力等）；聚焦",
+      "n.糖果 adj.甜的",
+      "n.工作日（星期一至星期五的任何一天）"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "sweet",
+    "choices": [
+      "adj.可移动的",
+      "n. 校服；制服",
+      "n.糖果 adj.甜的",
+      "v.变成；成为"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "snack",
+    "choices": [
+      "思考；考虑",
+      "v. 对待；招待；治疗；n. 款待",
+      "v. 对待；招待；治疗；n. 款待",
+      "n.点心；小吃"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "of course",
+    "choices": [
+      "v. 对待；招待；治疗；n. 款待",
+      "思考；考虑",
+      "当然",
+      "pron 每件事；一切"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "mobile",
+    "choices": [
+      "缺席；不在",
+      "n.人",
+      "interj. 嘘（用以让别人安静下来）",
+      "adj.可移动的"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "mobile phone",
+    "choices": [
+      "手机",
+      "不得不",
+      "v. 到达",
+      "v. 遵循；跟随"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "turn off",
+    "choices": [
+      "v.离开；留下",
+      "关掉（水、电或煤气）",
+      "手机",
+      "adj. 有礼貌的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "queue",
+    "choices": [
+      "n.声音；噪声",
+      "n.队",
+      "当然",
+      "interj. 嘘（用以让别人安静下来）"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "jump the queue",
+    "choices": [
+      "n.夹克衫；短上衣",
+      "v. 对待；招待；治疗；n. 款待",
+      "插队",
+      "思考；考虑"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "wait for",
+    "choices": [
+      "n. 秩序，v. 点菜",
+      "adv.轻声地；安静地",
+      "v.训练；练习",
+      "等待"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "just",
+    "choices": [
+      "n. 走廊",
+      "v. 对待；招待；治疗；n. 款待",
+      "v.理解；领会",
+      "adv.只好；正好"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "leave",
+    "choices": [
+      "n.糖果 adj.甜的",
+      "整理床铺；铺床",
+      "interj. 嘘（用以让别人安静下来）",
+      "v.离开；留下"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "absent",
+    "choices": [
+      "adj.&v.糟糕的；讨厌的",
+      "等待",
+      "整理床铺；铺床",
+      "adj.缺席的；不在的"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "be absent from",
+    "choices": [
+      "v. 遵循；跟随",
+      "缺席；不在",
+      "n. 校服；制服",
+      "adj. 有礼貌的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "shh",
+    "choices": [
+      "v. 对待；招待；治疗；n. 款待",
+      "adj.可移动的",
+      "adj.缺席的；不在的",
+      "interj. 嘘（用以让别人安静下来）"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "quietly",
+    "choices": [
+      "n. 建议；意见",
+      "adv.轻声地；安静地",
+      "n.队",
+      "n.夹克衫；短上衣"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "belt",
+    "choices": [
+      "插队",
+      "博士；医生",
+      "n.安全带；腰带；皮带",
+      "adj.不整洁的"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "feed",
+    "choices": [
+      "v.悬挂",
+      "v.喂养；饲养",
+      "v. 对待；招待；治疗；n. 款待",
+      "等待"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "noise",
+    "choices": [
+      "v. 对待；招待；治疗；n. 款待",
+      "n.声音；噪声",
+      "不得不",
+      "v.训练；练习"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "unhappy",
+    "choices": [
+      "思考；考虑",
+      "adj.缺席的；不在的",
+      "当然",
+      "adj.不快乐的"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "Dr",
+    "choices": [
+      "博士；医生",
+      "等待",
+      "n.安全带；腰带；皮带",
+      "n.精神；情绪"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "make sb's/the bed",
+    "choices": [
+      "n.糖果 adj.甜的",
+      "整理床铺；铺床",
+      "adv.轻声地；安静地",
+      "不得不"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "either",
+    "choices": [
+      "adv.也",
+      "当然",
+      "n.糖果 adj.甜的",
+      "n.夹克衫；短上衣"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "practise",
+    "choices": [
+      "手机",
+      "v.训练；练习",
+      "博士；医生",
+      "n. 校服；制服"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "hang",
+    "choices": [
+      "v.悬挂",
+      "n.点心；小吃",
+      "conj.如果",
+      "n. 秩序，v. 点菜"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "hang out",
+    "choices": [
+      "关掉（水、电或煤气）",
+      "思考；考虑",
+      "v.训练；练习",
+      "闲逛；常去某处"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "weekday",
+    "choices": [
+      "n.工作日（星期一至星期五的任何一天）",
+      "n.声音；噪声",
+      "v.悬挂",
+      "v.离开；留下"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "awful",
+    "choices": [
+      "等待",
+      "博士；医生",
+      "adj.&v.糟糕的；讨厌的",
+      "闲逛；常去某处"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "become",
+    "choices": [
+      "v.变成；成为",
+      "关掉（水、电或煤气）",
+      "conj.如果",
+      "n. 规则；规章"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "better",
+    "choices": [
+      "当然",
+      "v.借给；借出",
+      "adv.也",
+      "a dj.较好的 adv.较好地"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "person",
+    "choices": [
+      "博士；医生",
+      "n.人",
+      "adj.不整洁的",
+      "整理床铺；铺床"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "focus",
+    "choices": [
+      "adj.不快乐的",
+      "博士；医生",
+      "n.集中（注意力，精力等）；聚焦",
+      "n.队"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "spirit",
+    "choices": [
+      "n.队",
+      "n.精神；情绪",
+      "n.安全带；腰带；皮带",
+      "n. 校服；制服"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "think about",
+    "choices": [
+      "等待",
+      "思考；考虑",
+      "v. 遵循；跟随",
+      "v. 对待；招待；治疗；n. 款待"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "relax",
+    "choices": [
+      "博士；医生",
+      "v.放松；休息",
+      "闲逛；常去某处",
+      "n. 规则；规章"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "advice",
+    "choices": [
+      "adv.只好；正好",
+      "n. 建议；意见",
+      "n.点心；小吃",
+      "v. 到达"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "understand",
+    "choices": [
+      "博士；医生",
+      "n.安全带；腰带；皮带",
+      "v.理解；领会",
+      "v.借给；借出"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "untidy",
+    "choices": [
+      "v.理解；领会",
+      "pron 每件事；一切",
+      "adj.不整洁的",
+      "思考；考虑"
+    ],
+    "answer": 2
+  }
+]

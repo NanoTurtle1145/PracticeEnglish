@@ -1,0 +1,497 @@
+[
+  {
+    "type": "choose",
+    "text": "watermelon",
+    "choices": [
+      "",
+      "adj. 不好的；贫穷的",
+      "n.西瓜",
+      "n.曲奇饼"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "cabbage",
+    "choices": [
+      "炸鱼薯条",
+      "",
+      "n.卷心菜",
+      "pron.某事物；任何事物"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "mutton",
+    "choices": [
+      "n. 均衡的；平衡的",
+      "n.炸薯条",
+      "n.羊肉",
+      "炸鱼薯条"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "cookie",
+    "choices": [
+      "n. 猪肉",
+      "n.一道菜；盘",
+      "n.曲奇饼",
+      "n.洋葱；葱头"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "onion",
+    "choices": [
+      "n.曲奇饼",
+      "n. 盐",
+      "n.洋葱；葱头",
+      "n. 梨"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "dumpling",
+    "choices": [
+      "n. 文章；冠词",
+      "n.饺子",
+      "炸鱼薯条",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "coffee",
+    "choices": [
+      "n.咖啡",
+      "n.粥；燕麦片",
+      "n.一道菜；盘",
+      "prep. 在……中；……之……"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "bean",
+    "choices": [
+      "n.豆",
+      "n.洋葱；葱头",
+      "n.饺子",
+      "n. 菜单"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "chip",
+    "choices": [
+      "n.曲奇饼",
+      "n.炸薯条",
+      "n. 梨",
+      "n. 汉堡包"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "fish and chips",
+    "choices": [
+      "n. 后果；结果",
+      "炸鱼薯条",
+      "n.炸薯条",
+      "n. 文章；冠词"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "salad",
+    "choices": [
+      "n. 顾客",
+      "n. 习惯",
+      "n.沙拉；色拉",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "porridge",
+    "choices": [
+      "",
+      "n.粥；燕麦片",
+      "n.咖啡",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "waiter",
+    "choices": [
+      "n. 猪肉",
+      "n.（男）服务员",
+      "n. 后果；结果",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "taste",
+    "choices": [
+      "n. 体重；重量",
+      "n. 汉堡包",
+      "v.有……味道；尝 n.味道",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "anything",
+    "choices": [
+      "pron.某事物；任何事物",
+      "",
+      "n. 汉堡包",
+      "n. 菜单"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "dish",
+    "choices": [
+      "n.一道菜；盘",
+      "",
+      "n. 能量；精力",
+      "v.有……味道；尝 n.味道"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "choice",
+    "choices": [
+      "n.选择",
+      "",
+      "n.一餐所吃的食物；早（午、晚）餐",
+      "pron.某事物；任何事物"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "meal",
+    "choices": [
+      "n. 心脏；中心",
+      "",
+      "n. 草莓",
+      "n.一餐所吃的食物；早（午、晚）餐"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "pork",
+    "choices": [
+      "n. 猪肉",
+      "n. 能量；精力",
+      "n. 汉堡包",
+      "v. 提供；服务"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "strawberry",
+    "choices": [
+      "n. 草莓",
+      "炸鱼薯条",
+      "n.洋葱；葱头",
+      "n.炸薯条"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "menu",
+    "choices": [
+      "",
+      "n. 菜单",
+      "n.一道菜；盘",
+      "n. 顾客"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "customer",
+    "choices": [
+      "n. 顾客",
+      "n. 体重；重量",
+      "n. 梨",
+      "n. 先生"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "serve",
+    "choices": [
+      "炸鱼薯条",
+      "",
+      "v. 提供；服务",
+      "n. 梨"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "waitress",
+    "choices": [
+      "adj. 不好的；贫穷的",
+      "n. 女服务员",
+      "adj. 柔和的；柔软的",
+      "n. 均衡的；平衡的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "sir",
+    "choices": [
+      "n. 先生",
+      "",
+      "pron.某事物；任何事物",
+      ""
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "pear",
+    "choices": [
+      "n. 梨",
+      "n.羊肉",
+      "n.曲奇饼",
+      "n. 猪肉"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "sugar",
+    "choices": [
+      "n.（男）服务员",
+      "v. 改进；改善",
+      "n.炸薯条",
+      "n.西瓜"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "improve",
+    "choices": [
+      "n.饺子",
+      "n. 习惯",
+      "n. 猪肉",
+      "adj. 柔和的；柔软的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "habit",
+    "choices": [
+      "n.一道菜；盘",
+      "n. 盐",
+      "",
+      "n. 后果；结果"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "salt",
+    "choices": [
+      "n. 体重；重量",
+      "n. 女服务员",
+      "adj. 柔和的；柔软的",
+      "n. 先生"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "fat",
+    "choices": [
+      "炸鱼薯条",
+      "n.洋葱；葱头",
+      "n. 汉堡包",
+      "n. 盐"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "weight",
+    "choices": [
+      "n.羊肉",
+      "n.一餐所吃的食物；早（午、晚）餐",
+      "n. 心脏；中心",
+      "n. 均衡的；平衡的"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "hamburger",
+    "choices": [
+      "n. 汉堡包",
+      "n. 均衡的；平衡的",
+      "n.一餐所吃的食物；早（午、晚）餐",
+      "n.羊肉"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "cause",
+    "choices": [
+      "n. 心脏；中心",
+      "adj. 均衡的；平衡的",
+      "n. 梨",
+      "n. 草莓"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "heart",
+    "choices": [
+      "",
+      "n.沙拉；色拉",
+      "n.一道菜；盘",
+      "n.咖啡"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "balanced",
+    "choices": [
+      "n. 猪肉",
+      "n. 均衡的；平衡的",
+      "prep. 在……中；……之……",
+      "n. 能量；精力"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "energy",
+    "choices": [
+      "n. 体重；重量",
+      "n. 均衡的；平衡的",
+      "",
+      "prep. 在……中；……之……"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "away",
+    "choices": [
+      "n.西瓜",
+      "n.洋葱；葱头",
+      "adj. 不好的；贫穷的",
+      "n. 女服务员"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "poor",
+    "choices": [
+      "n.西瓜",
+      "n. 猪肉",
+      "n.豆",
+      "n. 后果；结果"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "result",
+    "choices": [
+      "n.豆",
+      "n. 文章；冠词",
+      "n. 菜单",
+      "n. 后果；结果"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "article",
+    "choices": [
+      "n. 先生",
+      "prep. 在……中；……之……",
+      "n.洋葱；葱头",
+      "n.沙拉；色拉"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "among",
+    "choices": [
+      "adj. 柔和的；柔软的",
+      "n.一餐所吃的食物；早（午、晚）餐",
+      "",
+      "v. 提供；服务"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "soft",
+    "choices": [
+      "n. 草莓",
+      "",
+      "prep. 在……中；……之……",
+      "n. 猪肉"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "thirsty",
+    "choices": [
+      "n. 女服务员",
+      "n. 体重；重量",
+      "n.炸薯条",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "America",
+    "choices": [
+      "",
+      "n. 盐",
+      "n.曲奇饼",
+      "adj. 不好的；贫穷的"
+    ],
+    "answer": 0
+  }
+]

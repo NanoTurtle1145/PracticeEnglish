@@ -1,0 +1,585 @@
+[
+  {
+    "type": "choose",
+    "text": "ride",
+    "choices": [
+      "v. 能；可以",
+      "希望",
+      "v.骑 n.旅程",
+      "n. 考试"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "moment",
+    "choices": [
+      "n.某个时刻；片刻；瞬间",
+      "n. 旅行；旅游",
+      "v.拿着；抓住",
+      "n. 地区；地带；区域"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "at the moment",
+    "choices": [
+      "现在；此刻",
+      "v.骑 n.旅程",
+      ".n. 龙",
+      "n.比赛；竞赛"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "work on",
+    "choices": [
+      "别挂断电话；等一等",
+      "n. 绘画作品；绘画；油画",
+      "做；从事",
+      "n.节目"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "dragon",
+    "choices": [
+      "n.某个时刻；片刻；瞬间",
+      "n. 名胜；风景；视力",
+      "n.希望",
+      ".n. 龙"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "festival",
+    "choices": [
+      "n.节目",
+      "n.消息；信息",
+      "做；从事",
+      "interj. 哇；呀"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "hold",
+    "choices": [
+      "参加",
+      "v.拿着；抓住",
+      "adv. 向前",
+      "n. 考试"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "hold on",
+    "choices": [
+      "n.市场",
+      ".n. 龙",
+      "n. 绘画作品；绘画；油画",
+      "别挂断电话；等一等"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "voice",
+    "choices": [
+      ".n. 龙",
+      "n. 嗓音；声音",
+      "n.比赛；竞赛",
+      "回电话"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "race",
+    "choices": [
+      "interj. 哇；呀",
+      "现在；立刻",
+      "n.比赛；竞赛",
+      "n. 嗓音；声音"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "darling",
+    "choices": [
+      "adj. 鲜艳的；明亮的；聪明的",
+      "n. 乘客",
+      "n. 亲爱的",
+      "现在；立刻"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "somebody",
+    "choices": [
+      "v. 滑冰",
+      "别挂断电话；等一等",
+      "pron. 某人；有人",
+      "n. 旅行；旅游"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "could",
+    "choices": [
+      "adj. 色彩鲜艳的",
+      "n. 地区；地带；区域",
+      "世界各地",
+      "v. 能；可以"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "message",
+    "choices": [
+      "v. 踢；蹦",
+      "n.消息；信息",
+      "例如",
+      "n. 名胜；风景；视力"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "take a message",
+    "choices": [
+      "v. 开车；驾驶",
+      "n. 地区；地带；区域",
+      "n. 乘客",
+      "指个口信"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "leave a message",
+    "choices": [
+      "留个口信",
+      "v. 把……送至；落下；下降",
+      "v. 开车；驾驶",
+      "现在；此刻"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "call back",
+    "choices": [
+      "pron. 某人；有人",
+      "回电话",
+      "n.节目",
+      "n. 名胜；风景；视力"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "kick",
+    "choices": [
+      "v. 能；可以",
+      "n.比赛；竞赛",
+      "时区",
+      "v. 踢；蹦"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "wow",
+    "choices": [
+      "interj. 哇；呀",
+      "留个口信",
+      "n. 地区；地带；区域",
+      "n. 嗓音；声音"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "online",
+    "choices": [
+      "adj. 鲜艳的；明亮的；聪明的",
+      "adj. 这样人；那样的 pron.这样（那样）的人或事物",
+      "adj. 在线的",
+      "adv. 向前"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "shuttlecock",
+    "choices": [
+      "n. 羽毛球",
+      "v. 滑冰",
+      "例如",
+      "n.边；侧"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "sight",
+    "choices": [
+      "留个口信",
+      "现在；此刻",
+      "n.市场",
+      "n. 名胜；风景；视力"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "exam",
+    "choices": [
+      "n. 考试",
+      "n.边；侧",
+      "并排；并肩地",
+      "例如"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "hope",
+    "choices": [
+      "回电话",
+      "n. 亲爱的",
+      "interj. 哇；呀",
+      "n.希望"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "forward",
+    "choices": [
+      "n. 地铁",
+      "n.边；侧",
+      "adv. 向前",
+      "adv. 缓慢地"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "look forward to",
+    "choices": [
+      "希望",
+      "n. 羽毛球",
+      "v. 踢；蹦",
+      "例如"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "skate",
+    "choices": [
+      "pron. 某人；有人",
+      "时区",
+      "v. 滑冰",
+      "n. 绘画作品；绘画；油画"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "happen",
+    "choices": [
+      "参加",
+      "adj. 在线的",
+      "v. 发生",
+      "例如"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "zone",
+    "choices": [
+      "n. 地区；地带；区域",
+      "v. 发光；照溢；n.光亮",
+      "现在；立刻",
+      "n.市场"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "time zone",
+    "choices": [
+      "做；从事",
+      "n. 考试",
+      "n.消息；信息",
+      "时区"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "around the world",
+    "choices": [
+      "世界各地",
+      "v. 踢；蹦",
+      "n. 地区；地带；区域",
+      "adj. 中心的；中央的；"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "right now",
+    "choices": [
+      "参加",
+      "现在；立刻",
+      "匆忙",
+      "v. 滑冰"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "rush",
+    "choices": [
+      "v. 发光；照溢；n.光亮",
+      "adj. 在线的",
+      "n. 冲；奔",
+      "n.市场"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "in a hurry",
+    "choices": [
+      ".n. 龙",
+      "adv. 缓慢地",
+      "n. 名胜；风景；视力",
+      "匆忙"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "shine",
+    "choices": [
+      ".n. 龙",
+      "v. 能；可以",
+      "留个口信",
+      "v. 发光；照溢；n.光亮"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "brightly",
+    "choices": [
+      "现在；此刻",
+      "adv. 明亮地",
+      "n.希望",
+      "n. 乘客"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "colourful",
+    "choices": [
+      "世界各地",
+      "adj. 色彩鲜艳的",
+      "现在；此刻",
+      "n.消息；信息"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "slowly",
+    "choices": [
+      ".n. 龙",
+      "adv. 缓慢地",
+      "n.希望",
+      "v.骑 n.旅程"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "such",
+    "choices": [
+      "adj. 鲜艳的；明亮的；聪明的",
+      "n.节目",
+      "留个口信",
+      "adj. 这样人；那样的 pron.这样（那样）的人或事物"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "such as",
+    "choices": [
+      "例如",
+      "留个口信",
+      "n.市场",
+      "v. 滑冰"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "painting",
+    "choices": [
+      "n. 冲；奔",
+      "n. 绘画作品；绘画；油画",
+      "adv. 缓慢地",
+      "adj. 色彩鲜艳的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "market",
+    "choices": [
+      "n.市场",
+      "指个口信",
+      "v. 把……送至；落下；下降",
+      "时区"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "side",
+    "choices": [
+      "n.边；侧",
+      "adv. 向前",
+      "adj. 这样人；那样的 pron.这样（那样）的人或事物",
+      "v. 开车；驾驶"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "side by side",
+    "choices": [
+      "并排；并肩地",
+      "v. 滑冰",
+      "匆忙",
+      "v. 发光；照溢；n.光亮"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "subway",
+    "choices": [
+      "n. 亲爱的",
+      "v. 能；可以",
+      "世界各地",
+      "n. 地铁"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "bright",
+    "choices": [
+      "adj. 鲜艳的；明亮的；聪明的",
+      "pron. 某人；有人",
+      "n. 羽毛球",
+      "adj. 中心的；中央的；"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "drop",
+    "choices": [
+      "留个口信",
+      "回电话",
+      "n. 地区；地带；区域",
+      "v. 把……送至；落下；下降"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "passenger",
+    "choices": [
+      "adv. 向前",
+      "v.拿着；抓住",
+      "n. 乘客",
+      "时区"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "central",
+    "choices": [
+      "n.边；侧",
+      "n. 旅行；旅游",
+      "adj. 中心的；中央的；",
+      "希望"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "take part in",
+    "choices": [
+      "n.比赛；竞赛",
+      "adj. 这样人；那样的 pron.这样（那样）的人或事物",
+      "参加",
+      "n. 旅行；旅游"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "tour",
+    "choices": [
+      "留个口信",
+      "adj. 中心的；中央的；",
+      "adj. 在线的",
+      "n. 旅行；旅游"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "sunshine",
+    "choices": [
+      "n. 阳光",
+      "n.市场",
+      "v. 滑冰",
+      "v. 踢；蹦"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "drive",
+    "choices": [
+      "v.骑 n.旅程",
+      "n. 绘画作品；绘画；油画",
+      "v. 开车；驾驶",
+      "n.某个时刻；片刻；瞬间"
+    ],
+    "answer": 2
+  }
+]

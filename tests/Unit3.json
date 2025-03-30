@@ -1,0 +1,574 @@
+[
+  {
+    "type": "choose",
+    "text": "fit",
+    "choices": [
+      "adj.健康的；健壮的 v.适合",
+      "n.(运动员的）垫子",
+      "n.组，群",
+      "pron.我的（所有物）"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "baseball",
+    "choices": [
+      "n.进步；进展",
+      "adv.反而；代替",
+      "n.棒球（运动）",
+      "adv.一次；曾经"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "glove",
+    "choices": [
+      "adv.排球（运动）",
+      "n.（手指分开的）手套",
+      "v.输掉；丢失",
+      "adj.(表示否定的)很少的；几乎没有的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "mat",
+    "choices": [
+      "n.组，群",
+      "n.(运动员的）垫子",
+      "开始：起初",
+      "n.（网球、羽毛球等的）球拍"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "rope",
+    "choices": [
+      "n.羽毛球；运动",
+      "adv.在某个时候",
+      "v.成功；达到目标",
+      "n.绳子；粗绳"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "jump rope",
+    "choices": [
+      "劳驾；请原谅",
+      "n.双打；两倍；adj.成双的；两倍的",
+      "adv.很少；不常",
+      "跳绳用的绳子；跳绳（运动）"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "racket",
+    "choices": [
+      "n.（网球、羽毛球等的）球拍",
+      "adj.(表示否定的)很少的；几乎没有的",
+      "n.滑板运动",
+      "n.进步；进展"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "hardly",
+    "choices": [
+      "adv.几乎不；几乎没有",
+      "adv.两次；两回",
+      "n.应用程序",
+      "adv.在某个时候"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "ever",
+    "choices": [
+      "adv.排球（运动）",
+      "v.原谅；宽恕；",
+      "n.滑板",
+      "adv.在任何时候；从来；曾经"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "hardly ever",
+    "choices": [
+      "几乎从不",
+      "少数；几个",
+      "adv.很少；不常",
+      "n.进步；进展"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "once",
+    "choices": [
+      "pron.我们的（所有物）",
+      "v.应在（某处）",
+      "n.（手指分开的）手套",
+      "adv.一次；曾经"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "twice",
+    "choices": [
+      "adv.两次；两回",
+      "v.原谅；宽恕；",
+      "几乎从不",
+      "adv.很少；不常"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "mine",
+    "choices": [
+      "adv.一次；曾经",
+      "n.滑板",
+      "pron.我的（所有物）",
+      "属于（某人）"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "hers",
+    "choices": [
+      "pron.我们的（所有物）",
+      "pron.她的（所有物）",
+      "少数；几个",
+      "n.绳子；粗绳"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "maybe",
+    "choices": [
+      "adv.也许；大概",
+      "adv.还；任然",
+      "n.技能；戏法",
+      "pron.我们的（所有物）"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "well-used",
+    "choices": [
+      "锻炼",
+      "n.青少年(13岁至19岁之间)",
+      "n.（网球、羽毛球等的）球拍",
+      "adj.使用得当的"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "practice",
+    "choices": [
+      "n.练习；实践",
+      "n.进步；进展",
+      "n.T-恤衫",
+      "adv.两次；两回"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "perfect",
+    "choices": [
+      "adj.(表示否定的)很少的；几乎没有的",
+      "adv.排球（运动）",
+      "n.组，群",
+      "adj.完美的；极好的"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "seldom",
+    "choices": [
+      "n.(运动员的）垫子",
+      "n.（网球、羽毛球等的）球拍",
+      "adv.很少；不常",
+      "adv.也许；大概"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "badminton",
+    "choices": [
+      "n.滑板运动",
+      "n.进步；进展",
+      "n.羽毛球；运动",
+      "在那边"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "double",
+    "choices": [
+      "n.鼓励；激励",
+      "adv.排球（运动）",
+      "adv.也许；大概",
+      "n.双打；两倍；adj.成双的；两倍的"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "sometime",
+    "choices": [
+      "pron.我们的（所有物）",
+      "adv.在某个时候",
+      "属于（某人）",
+      "n.应用程序"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "volleyball",
+    "choices": [
+      "n.技能；戏法",
+      "n.T-恤衫",
+      "adv.排球（运动）",
+      "跳绳用的绳子；跳绳（运动）"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "theirs",
+    "choices": [
+      "pron.我的（所有物）",
+      "pron.他们的，她们的；它们的（所有物）",
+      "adj.困倦的，想睡的",
+      "锻炼"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "jog",
+    "choices": [
+      "n.比赛；竞赛",
+      "v.慢跑",
+      "pron.我们的（所有物）",
+      "开始：起初"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "few",
+    "choices": [
+      "n.比赛；竞赛",
+      "n.T-恤衫",
+      "adj.(表示否定的)很少的；几乎没有的",
+      "n.（网球、羽毛球等的）球拍"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "a few",
+    "choices": [
+      "adv.几乎不；几乎没有",
+      "adj.健康的；健壮的 v.适合",
+      "pron.他们的，她们的；它们的（所有物）",
+      "少数；几个"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "excuse",
+    "choices": [
+      "adj.困倦的，想睡的",
+      "n.棒球（运动）",
+      "v.慢跑",
+      "v.原谅；宽恕；"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "excuse me",
+    "choices": [
+      "adv.两次；两回",
+      "劳驾；请原谅",
+      "pron.我的（所有物）",
+      "adj.健康的；健壮的 v.适合"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "over there",
+    "choices": [
+      "adj.困倦的，想睡的",
+      "在那边",
+      "n.队；组",
+      "n.双打；两倍；adj.成双的；两倍的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "T-shirt",
+    "choices": [
+      "adj.困倦的，想睡的",
+      "n.T-恤衫",
+      "v.成功；达到目标",
+      "n.（网球、羽毛球等的）球拍"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "belong",
+    "choices": [
+      "n.滑板",
+      "n.(运动员的）垫子",
+      "adv.也许；大概",
+      "v.应在（某处）"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "belong to",
+    "choices": [
+      "v.慢跑",
+      "n.队；组",
+      "属于（某人）",
+      "n.青少年(13岁至19岁之间)"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "at the start",
+    "choices": [
+      "n.队；组",
+      "adj.完美的；极好的",
+      "开始：起初",
+      "n.进步；进展"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "still",
+    "choices": [
+      "adv.还；任然",
+      "v.输掉；丢失",
+      "adv.在某个时候",
+      "adv.反而；代替"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "sleepy",
+    "choices": [
+      "n.青少年(13岁至19岁之间)",
+      "adj.困倦的，想睡的",
+      "adv.在某个时候",
+      "adv.还；任然"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "instead",
+    "choices": [
+      "adv.反而；代替",
+      "adv.在某个时候",
+      "v.原谅；宽恕；",
+      "n.（网球、羽毛球等的）球拍"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "group",
+    "choices": [
+      "n.组，群",
+      "adv.几乎不；几乎没有",
+      "v.原谅；宽恕；",
+      "adj.使用得当的"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "skateboard",
+    "choices": [
+      "n.滑板",
+      "n.青少年(13岁至19岁之间)",
+      "n.队；组",
+      "v.应在（某处）"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "encourage",
+    "choices": [
+      "n.鼓励；激励",
+      "跳绳用的绳子；跳绳（运动）",
+      "n.双打；两倍；adj.成双的；两倍的",
+      "adv.也许；大概"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "trick",
+    "choices": [
+      "n.技能；戏法",
+      "adv.反而；代替",
+      "v.慢跑",
+      "adj.(表示否定的)很少的；几乎没有的"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "succeed",
+    "choices": [
+      "v.输掉；丢失",
+      "n.练习；实践",
+      "v.成功；达到目标",
+      "n.比赛；竞赛"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "skateboarding",
+    "choices": [
+      "n.滑板运动",
+      "n.（手指分开的）手套",
+      "pron.我的（所有物）",
+      "v.慢跑"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "sit-up n.",
+    "choices": [
+      "n.双打；两倍；adj.成双的；两倍的",
+      "v.原谅；宽恕；",
+      "仰卧起坐",
+      "adv.在任何时候；从来；曾经"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "work out",
+    "choices": [
+      "adv.一次；曾经",
+      "锻炼",
+      "adj.完美的；极好的",
+      "n.棒球（运动）"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "app",
+    "choices": [
+      "pron.他们的，她们的；它们的（所有物）",
+      "n.练习；实践",
+      "n.应用程序",
+      "v.应在（某处）"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "progress",
+    "choices": [
+      "n.滑板",
+      "n.练习；实践",
+      "n.进步；进展",
+      "adj.完美的；极好的"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "match",
+    "choices": [
+      "n.比赛；竞赛",
+      "pron.我们的（所有物）",
+      "adv.一次；曾经",
+      "n.棒球（运动）"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "team",
+    "choices": [
+      "n.队；组",
+      "adj.使用得当的",
+      "adj.困倦的，想睡的",
+      "adv.排球（运动）"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "ours",
+    "choices": [
+      "adv.也许；大概",
+      "pron.我们的（所有物）",
+      "adv.两次；两回",
+      "n.练习；实践"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "lose",
+    "choices": [
+      "v.输掉；丢失",
+      "pron.他们的，她们的；它们的（所有物）",
+      "pron.她的（所有物）",
+      "几乎从不"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "teenager",
+    "choices": [
+      "n.青少年(13岁至19岁之间)",
+      "几乎从不",
+      "pron.他们的，她们的；它们的（所有物）",
+      "adj.健康的；健壮的 v.适合"
+    ],
+    "answer": 0
+  }
+]

@@ -1,78 +1,100 @@
 [
   {
     "type": "choose",
-    "text": "本题共有8个选项（选A）",
-    "choices": [
-      "好的",
-      "好的",
-      "好的",
-      "好的"
-    ],
-    "answer": 0
-  },
-  {
-    "type": "choose",
     "text": "fox",
     "choices": [
-      "v. 欺骗",
       "n. 狐狸",
-      "adj. 狡猾的",
-      "n. 盒子"
+      "v. 救；储蓄；保存",
+      "adj. 相当；完全",
+      "v. 猜测；估计"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "type": "choose",
     "text": "giraffe",
     "choices": [
-      "n. 河马",
       "n. 长颈鹿",
-      "n. 犀牛",
-      "n. 斑马"
-    ],
-    "answer": 1
-  },
-  {
-    "type": "choose",
-    "text": "eagle",
-    "choices": [
-      "n. 雕；鹰",
-      "n. 孔雀",
-      "n. 鹦鹉",
-      "n. 鸽子"
+      "n. 听力；听觉",
+      "n. 狼",
+      "adj. 友好的"
     ],
     "answer": 0
   },
   {
     "type": "choose",
-    "text": "dangerous",
+    "text": "eagle",
     "choices": [
-      "n. 危险",
-      "adv. 危险地",
-      "adj. 危险的",
-      "adj. 安全的"
+      "n. 长颈鹿",
+      "n. 雕；鹰",
+      "n. 无知",
+      "adj. 暗的；失明的"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
     "type": "choose",
-    "text": "save",
+    "text": "wolf",
     "choices": [
-      "v. 浪费",
-      "adj. 安全的",
-      "v. 救；储蓄",
-      "n. 储蓄罐"
+      "v. 猜测；估计",
+      "n. 蛇",
+      "adj. 吓人的；恐怖的",
+      "n. 狼"
     ],
-    "answer": 2
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "penguin",
+    "choices": [
+      "v. 拿：提",
+      "adj. 爱嬉戏的；爱玩的",
+      "n. 幸运；运气",
+      "n. 企鹅"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "care",
+    "choices": [
+      "v. 捡：摘",
+      "adj. 泰国的；泰国人的 n.泰国",
+      "n. 蛇",
+      "n.照顾；护理 v. 关心；在乎"
+    ],
+    "answer": 3
   },
   {
     "type": "choose",
     "text": "take care of",
     "choices": [
-      "忽略；忽视",
-      "关心；在乎",
       "照顾；处理",
-      "小心；注意"
+      "adj. 暗的；失明的",
+      "n. 游泳者",
+      "n. 企鹅"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "sandwich",
+    "choices": [
+      "adj. 暗的；失明的",
+      "adj. 爱嬉戏的；爱玩的",
+      "n. 三明治",
+      "n. 游泳者"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "snake",
+    "choices": [
+      "n. 游泳者",
+      "n. 危险",
+      "n. 蛇",
+      "adj. 爱嬉戏的；爱玩的"
     ],
     "answer": 2
   },
@@ -80,10 +102,54 @@
     "type": "choose",
     "text": "scary",
     "choices": [
-      "v. 惊吓",
-      "adj. 有趣的",
-      "n. 伤疤",
+      "n. 无知",
+      "adj. 危险的；有危害的",
+      "adj. 友好的",
       "adj. 吓人的；恐怖的"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "neck",
+    "choices": [
+      "v. 拿：提",
+      "adj. 爱嬉戏的；爱玩的",
+      "n. 南极圈",
+      "n. 脖子"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "guess",
+    "choices": [
+      "n. 狐狸",
+      "v. 捡：摘",
+      "n. 森林",
+      "v. 猜测；估计"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "shark",
+    "choices": [
+      "n. 南极圈",
+      "n. 听力；听觉",
+      "n. 鲨鱼",
+      "照顾；处理"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "whale",
+    "choices": [
+      "n. 鲨鱼",
+      "adj. 泰国的；泰国人的 n.泰国",
+      "n. 游泳者",
+      "n. 鲸"
     ],
     "answer": 3
   },
@@ -91,11 +157,275 @@
     "type": "choose",
     "text": "huge",
     "choices": [
-      "n. 巨人",
-      "v. 拥抱",
+      "adj. 暗的；失明的",
+      "照顾；处理",
+      "adj. 友好的",
+      "adj. 大的；极多的"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "Dangerous",
+    "choices": [
       "adj. 大的；极多的",
-      "adj. 微小的"
+      "adj. 危险的；有危害的",
+      "n. 听力；听觉",
+      "n. 游泳者"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "save",
+    "choices": [
+      "n. 雕；鹰",
+      "n. 危险",
+      "adj. 吓人的；恐怖的",
+      "v. 救；储蓄；保存"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "luck",
+    "choices": [
+      "n. 狐狸",
+      "adj. 吓人的；恐怖的",
+      "adj. 危险的；有危害的",
+      "n. 幸运；运气"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "Thai",
+    "choices": [
+      "n. 鲸",
+      "n. 森林",
+      "adj. 泰国的；泰国人的 n.泰国",
+      "v. 拿走：举起"
     ],
     "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "trunk",
+    "choices": [
+      "n. 象鼻",
+      "v. 拿走：举起",
+      "adj. 危险的；有危害的",
+      "adj. 泰国的；泰国人的 n.泰国"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "pick",
+    "choices": [
+      "adj. 吓人的；恐怖的",
+      "n. 长颈鹿",
+      "v. 捡：摘",
+      "n. 南极圈"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "pick up",
+    "choices": [
+      "v. 拿走：举起",
+      "v. 捡：摘",
+      "adj. 暗的；失明的",
+      "adj. 吓人的；恐怖的"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "carry",
+    "choices": [
+      "n. 泰国",
+      "v. 拿：提",
+      "adj. 暗的；失明的",
+      "照顾；处理"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "playful",
+    "choices": [
+      "n. 幸运；运气",
+      "adj. 爱嬉戏的；爱玩的",
+      "adj. 相当；完全",
+      "adj. 危险的；有危害的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "swimmer",
+    "choices": [
+      "adj. 吓人的；恐怖的",
+      "n. 游泳者",
+      "v. 拿走：举起",
+      "照顾；处理"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "one another",
+    "choices": [
+      "n. 泰国",
+      "n. 狼",
+      "n. 森林",
+      "n. 非洲"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "look after",
+    "choices": [
+      "n. 文化；文明",
+      "n.照顾；护理 v. 关心；在乎",
+      "n. 鲸",
+      "adj. 爱嬉戏的；爱玩的"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "culture",
+    "choices": [
+      "adj. 暗的；失明的",
+      "n. 鲨鱼",
+      "n. 象鼻",
+      "adv. 然而；不过"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "however",
+    "choices": [
+      "n. 三明治",
+      "n. 危险",
+      "adj. 暗的；失明的",
+      "adj. 相当；完全"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "danger",
+    "choices": [
+      "n. 狐狸",
+      "n. 南极圈",
+      "n. 象鼻",
+      "adj. 友好的"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "in danger",
+    "choices": [
+      "n. 狐狸",
+      "n. 游泳者",
+      "n. 狼",
+      "adj. 相当；完全"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "forest",
+    "choices": [
+      "照顾；处理",
+      "n. 无知",
+      "adj. 爱嬉戏的；爱玩的",
+      "adj. 暗的；失明的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "cut down",
+    "choices": [
+      "v. 拿：提",
+      "adj. 暗的；失明的",
+      "n. 蛇",
+      "adj. 危险的；有危害的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "too many",
+    "choices": [
+      "adj. 泰国的；泰国人的 n.泰国",
+      "adj. 暗的；失明的",
+      "adj. 相当；完全",
+      "n. 危险"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "kill",
+    "choices": [
+      "n. 狐狸",
+      "v. 猜测；估计",
+      "adj. 暗的；失明的",
+      "n. 长颈鹿"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "made of",
+    "choices": [
+      "v. 拿走：举起",
+      "照顾；处理",
+      "n. 企鹅",
+      "n. 听力；听觉"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "ivory",
+    "choices": [
+      "n. 蛇",
+      "n. 幸运；运气",
+      "n. 南极圈",
+      "n. 雕；鹰"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "friendly",
+    "choices": [
+      "n. 非洲",
+      "n. 象鼻",
+      "v. 捡：摘",
+      "v. 拿走：举起"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "quiet",
+    "choices": [
+      "n. 泰国",
+      "adj. 暗的；失明的",
+      "n.照顾；护理 v. 关心；在乎",
+      "n. 雕；鹰"
+    ],
+    "answer": 0
   }
 ]
