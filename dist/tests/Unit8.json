@@ -1,0 +1,962 @@
+[
+  {
+    "type": "choose",
+    "text": "upon",
+    "choices": [
+      "prep. 在……上",
+      "v. 假装；伪装",
+      "adj. 愚蠢的；傻的",
+      "n. 赞美；表扬"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "prep. 在……上的英文单词是？",
+    "answer": "upon"
+  },
+  {
+    "type": "choose",
+    "text": "once upon a time",
+    "choices": [
+      "寻找；搜寻",
+      "n. 赞美；表扬",
+      "从前；很久以前",
+      "pron.他自己;他本人"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "从前；很久以前的英文单词是？",
+    "answer": "once upon a time"
+  },
+  {
+    "type": "choose",
+    "text": "bite",
+    "choices": [
+      "许下诺言",
+      "adj. 愚蠢的；傻的",
+      "v. 咬；咬伤",
+      "走开"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "v. 咬；咬伤的英文单词是？",
+    "answer": "bite"
+  },
+  {
+    "type": "choose",
+    "text": "bite through",
+    "choices": [
+      "最后；终究",
+      "v. 决定",
+      "出乎某人的意料",
+      "咬穿"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "咬穿的英文单词是？",
+    "answer": "bite through"
+  },
+  {
+    "type": "choose",
+    "text": "net",
+    "choices": [
+      "n. 母鸡",
+      "很晚以前",
+      "n.大小；尺寸",
+      "n. 网；网状物"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "n. 网；网状物的英文单词是？",
+    "answer": "net"
+  },
+  {
+    "type": "choose",
+    "text": "hunter",
+    "choices": [
+      "n. 猎人；搜寻者",
+      "v. 咬；咬伤",
+      "adj. 符合事实的；真正的",
+      "很晚以前"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "n. 猎人；搜寻者的英文单词是？",
+    "answer": "hunter"
+  },
+  {
+    "type": "choose",
+    "text": "promise",
+    "choices": [
+      "v. 承诺；保证；n. 承诺；诺言",
+      "v. 不喜欢；厌恶；讨厌",
+      "v.（laid)下（蛋）；放置；搁",
+      "走开"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "v. 承诺；保证；n. 承诺；诺言的英文单词是？",
+    "answer": "promise"
+  },
+  {
+    "type": "choose",
+    "text": "long ago",
+    "choices": [
+      "很晚以前",
+      "pron.任何人；某个人",
+      "",
+      "许下诺言"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "很晚以前的英文单词是？",
+    "answer": "long ago"
+  },
+  {
+    "type": "choose",
+    "text": "war",
+    "choices": [
+      "n. 网；网状物",
+      "n. 战争",
+      "v. 微笑，微笑；笑容",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "n. 战争的英文单词是？",
+    "answer": "war"
+  },
+  {
+    "type": "choose",
+    "text": "neighbour",
+    "choices": [
+      "n. 真相；事实",
+      "n. 邻居",
+      "到处；遍及",
+      "v.使处于某种状态；使开始释放"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "n. 邻居的英文单词是？",
+    "answer": "neighbour"
+  },
+  {
+    "type": "choose",
+    "text": "wise",
+    "choices": [
+      "pron.某人；有人",
+      "n.羽毛",
+      "",
+      "adj. 明智的；高明的"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "adj. 明智的；高明的的英文单词是？",
+    "answer": "wise"
+  },
+  {
+    "type": "choose",
+    "text": "emperor",
+    "choices": [
+      "v. 微笑，微笑；笑容",
+      "成功做成某事",
+      "n. 皇帝",
+      "adj. 明智的；高明的"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "n. 皇帝的英文单词是？",
+    "answer": "emperor"
+  },
+  {
+    "type": "choose",
+    "text": "lie",
+    "choices": [
+      "v. 承诺；保证；n. 承诺；诺言",
+      "n. 美术家；艺术家",
+      "adj. 愚蠢的；傻的",
+      "v. 撒谎，n. 谎言"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "v. 撒谎，n. 谎言的英文单词是？",
+    "answer": "lie"
+  },
+  {
+    "type": "choose",
+    "text": "pretend",
+    "choices": [
+      "出乎某人的意料",
+      "v. 假装；伪装",
+      "起初；最初",
+      "起初；最初"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "v. 假装；伪装的英文单词是？",
+    "answer": "pretend"
+  },
+  {
+    "type": "choose",
+    "text": "official",
+    "choices": [
+      "pron.任何人；某个人",
+      "n. 官员；高级职员",
+      "n. 邻居",
+      "adj. 明智的；高明的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "n. 官员；高级职员的英文单词是？",
+    "answer": "official"
+  },
+  {
+    "type": "choose",
+    "text": "silly",
+    "choices": [
+      "n. 母鸡",
+      "v.（laid)下（蛋）；放置；搁",
+      "v. 撒谎，n. 谎言",
+      "adj. 愚蠢的；傻的"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "adj. 愚蠢的；傻的的英文单词是？",
+    "answer": "silly"
+  },
+  {
+    "type": "choose",
+    "text": "decide",
+    "choices": [
+      "n. 小鸭子",
+      "v. 决定",
+      "adv. 有希望地",
+      "成功做成某事"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "v. 决定的英文单词是？",
+    "answer": "decide"
+  },
+  {
+    "type": "choose",
+    "text": "praise",
+    "choices": [
+      "n. 赞美；表扬",
+      "许下诺言",
+      "n. 君主；国王",
+      "v. 微笑，微笑；笑容"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "n. 赞美；表扬的英文单词是？",
+    "answer": "praise"
+  },
+  {
+    "type": "choose",
+    "text": "afraid",
+    "choices": [
+      "说实话",
+      "n.死亡；消失",
+      "adj. 害怕的；担心的",
+      "adj. 真的；真正的"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "adj. 害怕的；担心的的英文单词是？",
+    "answer": "afraid"
+  },
+  {
+    "type": "choose",
+    "text": "suddenly",
+    "choices": [
+      "v. 微笑，微笑；笑容",
+      "adv. 突然地；出乎意料地",
+      "出现；盛开",
+      "n. 皇帝"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "adv. 突然地；出乎意料地的英文单词是？",
+    "answer": "suddenly"
+  },
+  {
+    "type": "choose",
+    "text": "at first",
+    "choices": [
+      "起初；最初",
+      "adv. 突然地；出乎意料地",
+      "寻找；搜寻",
+      "n. 官员；高级职员"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "起初；最初的英文单词是？",
+    "answer": "at first"
+  },
+  {
+    "type": "choose",
+    "text": "truth",
+    "choices": [
+      "n. 真相；事实",
+      "最后；终究",
+      "n. 邻居",
+      "n. 母鸡"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "n. 真相；事实的英文单词是？",
+    "answer": "truth"
+  },
+  {
+    "type": "choose",
+    "text": "tell the truth",
+    "choices": [
+      "说实话",
+      "出乎某人的意料",
+      "n. 真相；事实",
+      "adj. 符合事实的；真正的"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "说实话的英文单词是？",
+    "answer": "tell the truth"
+  },
+  {
+    "type": "choose",
+    "text": "make money",
+    "choices": [
+      "n. 美术家；艺术家",
+      "adv. 突然地；出乎意料地",
+      "赚钱",
+      "adj. 害怕的；担心的"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "赚钱的英文单词是？",
+    "answer": "make money"
+  },
+  {
+    "type": "choose",
+    "text": "TRUE",
+    "choices": [
+      "到处；遍及",
+      "n.羽毛",
+      "起初；最初",
+      "adj. 符合事实的；真正的"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "adj. 符合事实的；真正的的英文单词是？",
+    "answer": "TRUE"
+  },
+  {
+    "type": "choose",
+    "text": "hate",
+    "choices": [
+      "v. 不喜欢；厌恶；讨厌",
+      "pron.任何人；某个人",
+      "起初；最初",
+      "prep. 在……上"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "v. 不喜欢；厌恶；讨厌的英文单词是？",
+    "answer": "hate"
+  },
+  {
+    "type": "choose",
+    "text": "get out",
+    "choices": [
+      "逃脱；离开",
+      "v. 决定",
+      "pron.他自己;他本人",
+      "嘲笑"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "逃脱；离开的英文单词是？",
+    "answer": "get out"
+  },
+  {
+    "type": "choose",
+    "text": "king",
+    "choices": [
+      "adj. 害怕的；担心的",
+      "n. 君主；国王",
+      "咬穿",
+      "n. 官员；高级职员"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "n. 君主；国王的英文单词是？",
+    "answer": "king"
+  },
+  {
+    "type": "choose",
+    "text": "artist",
+    "choices": [
+      "寻找；搜寻",
+      "n. 美术家；艺术家",
+      "n. 网；网状物",
+      "n. 战争"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "n. 美术家；艺术家的英文单词是？",
+    "answer": "artist"
+  },
+  {
+    "type": "choose",
+    "text": "quickly",
+    "choices": [
+      "赚钱",
+      "adv. 快速地；很快",
+      "从前；很久以前",
+      "adj. 愚蠢的；傻的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "adv. 快速地；很快的英文单词是？",
+    "answer": "quickly"
+  },
+  {
+    "type": "choose",
+    "text": "smile",
+    "choices": [
+      "嘲笑",
+      "v. 微笑，微笑；笑容",
+      "n.天鹅",
+      "许下诺言"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "v. 微笑，微笑；笑容的英文单词是？",
+    "answer": "smile"
+  },
+  {
+    "type": "choose",
+    "text": "all over",
+    "choices": [
+      "到处；遍及",
+      "n. 真相；事实",
+      "adj. 丑陋的；难看的",
+      "v. 假装；伪装"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "到处；遍及的英文单词是？",
+    "answer": "all over"
+  },
+  {
+    "type": "choose",
+    "text": "ugly",
+    "choices": [
+      "n. 猎人；搜寻者",
+      "起初；最初",
+      "adj. 丑陋的；难看的",
+      "v. 承诺；保证；n. 承诺；诺言"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "adj. 丑陋的；难看的的英文单词是？",
+    "answer": "ugly"
+  },
+  {
+    "type": "choose",
+    "text": "duckling",
+    "choices": [
+      "n. 真相；事实",
+      "adj. 害怕的；担心的",
+      "n.羽毛",
+      "n. 小鸭子"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "n. 小鸭子的英文单词是？",
+    "answer": "duckling"
+  },
+  {
+    "type": "choose",
+    "text": "real",
+    "choices": [
+      "n. 网；网状物",
+      "adj. 真的；真正的",
+      "n.妖怪；鬼",
+      "pron.某人；有人"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "adj. 真的；真正的的英文单词是？",
+    "answer": "real"
+  },
+  {
+    "type": "choose",
+    "text": "laugh at",
+    "choices": [
+      "n. 小鸭子",
+      "成功做成某事",
+      "n. 网；网状物",
+      "嘲笑"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "嘲笑的英文单词是？",
+    "answer": "laugh at"
+  },
+  {
+    "type": "choose",
+    "text": "go away",
+    "choices": [
+      "而不是；代替",
+      "走开",
+      "v. 咬；咬伤",
+      "到处；遍及"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "走开的英文单词是？",
+    "answer": "go away"
+  },
+  {
+    "type": "choose",
+    "text": "search for v.",
+    "choices": [
+      "adj. 真的；真正的",
+      "寻找；搜寻",
+      "很晚以前",
+      "adj. 符合事实的；真正的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "寻找；搜寻的英文单词是？",
+    "answer": "search for v."
+  },
+  {
+    "type": "choose",
+    "text": "hen",
+    "choices": [
+      "n.天鹅",
+      "n. 母鸡",
+      "出乎某人的意料",
+      "而不是；代替"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "n. 母鸡的英文单词是？",
+    "answer": "hen"
+  },
+  {
+    "type": "choose",
+    "text": "hopefully",
+    "choices": [
+      "adj. 丑陋的；难看的",
+      "出乎某人的意料",
+      "adv. 有希望地",
+      "成功做成某事"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "adv. 有希望地的英文单词是？",
+    "answer": "hopefully"
+  },
+  {
+    "type": "choose",
+    "text": "purr",
+    "choices": [
+      "adj. 真的；真正的",
+      "到处；遍及",
+      "v.（在愉快时）发出呜呜声",
+      "adj. 愚蠢的；傻的"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "v.（在愉快时）发出呜呜声的英文单词是？",
+    "answer": "purr"
+  },
+  {
+    "type": "choose",
+    "text": "lay",
+    "choices": [
+      "prep. 在……上",
+      "v.（laid)下（蛋）；放置；搁",
+      "adj. 丑陋的；难看的",
+      "n. 赞美；表扬"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "v.（laid)下（蛋）；放置；搁的英文单词是？",
+    "answer": "lay"
+  },
+  {
+    "type": "choose",
+    "text": "swan",
+    "choices": [
+      "v.（laid)下（蛋）；放置；搁",
+      "最后；终究",
+      "v.（在愉快时）发出呜呜声",
+      "n.天鹅"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "n.天鹅的英文单词是？",
+    "answer": "swan"
+  },
+  {
+    "type": "choose",
+    "text": "feather",
+    "choices": [
+      "adj. 符合事实的；真正的",
+      "v.（在愉快时）发出呜呜声",
+      "n. 美术家；艺术家",
+      "n.羽毛"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "n.羽毛的英文单词是？",
+    "answer": "feather"
+  },
+  {
+    "type": "choose",
+    "text": "to sb's surprise",
+    "choices": [
+      "n. 猎人；搜寻者",
+      "n.大小；尺寸",
+      "n. 官员；高级职员",
+      "出乎某人的意料"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "出乎某人的意料的英文单词是？",
+    "answer": "to sb's surprise"
+  },
+  {
+    "type": "choose",
+    "text": "size",
+    "choices": [
+      "n. 官员；高级职员",
+      "n.大小；尺寸",
+      "很晚以前",
+      "adj. 真的；真正的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "n.大小；尺寸的英文单词是？",
+    "answer": "size"
+  },
+  {
+    "type": "choose",
+    "text": "come out",
+    "choices": [
+      "n.羽毛",
+      "v.（在愉快时）发出呜呜声",
+      "出现；盛开",
+      "很晚以前"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "出现；盛开的英文单词是？",
+    "answer": "come out"
+  },
+  {
+    "type": "choose",
+    "text": "genie",
+    "choices": [
+      "n. 官员；高级职员",
+      "n.妖怪；鬼",
+      "v.（在愉快时）发出呜呜声",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "n.妖怪；鬼的英文单词是？",
+    "answer": "genie"
+  },
+  {
+    "type": "choose",
+    "text": "die",
+    "choices": [
+      "adj. 愚蠢的；傻的",
+      "n.天鹅",
+      "n. 网；网状物",
+      "n.死亡；消失"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "n.死亡；消失的英文单词是？",
+    "answer": "die"
+  },
+  {
+    "type": "choose",
+    "text": "make a promise",
+    "choices": [
+      "v. 不喜欢；厌恶；讨厌",
+      "很晚以前",
+      "许下诺言",
+      "v. 咬；咬伤"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "许下诺言的英文单词是？",
+    "answer": "make a promise"
+  },
+  {
+    "type": "choose",
+    "text": "someone",
+    "choices": [
+      "prep. 在……上",
+      "说实话",
+      "说实话",
+      "pron.某人；有人"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "pron.某人；有人的英文单词是？",
+    "answer": "someone"
+  },
+  {
+    "type": "choose",
+    "text": "set",
+    "choices": [
+      "n. 赞美；表扬",
+      "adj. 符合事实的；真正的",
+      "v.使处于某种状态；使开始释放",
+      "n. 战争"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "v.使处于某种状态；使开始释放的英文单词是？",
+    "answer": "set"
+  },
+  {
+    "type": "choose",
+    "text": "set…free",
+    "choices": [
+      "adj.富有的；含有……的",
+      "v. 咬；咬伤",
+      "很晚以前",
+      "而不是；代替"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "adj.富有的；含有……的的英文单词是？",
+    "answer": "set…free"
+  },
+  {
+    "type": "choose",
+    "text": "rich",
+    "choices": [
+      "赚钱",
+      "v. 不喜欢；厌恶；讨厌",
+      "adj. 符合事实的；真正的",
+      "adj.强大的；有影响力的"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "adj.强大的；有影响力的的英文单词是？",
+    "answer": "rich"
+  },
+  {
+    "type": "choose",
+    "text": "powerful",
+    "choices": [
+      "adj. 符合事实的；真正的",
+      "n.大小；尺寸",
+      "pron.任何人；某个人",
+      "很晚以前"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "pron.任何人；某个人的英文单词是？",
+    "answer": "powerful"
+  },
+  {
+    "type": "choose",
+    "text": "anyone",
+    "choices": [
+      "n. 网；网状物",
+      "",
+      "adv. 突然地；出乎意料地",
+      "adj. 害怕的；担心的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "的英文单词是？",
+    "answer": "anyone"
+  },
+  {
+    "type": "choose",
+    "text": "instead of",
+    "choices": [
+      "很晚以前",
+      "n. 官员；高级职员",
+      "走开",
+      "而不是；代替"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "而不是；代替的英文单词是？",
+    "answer": "instead of"
+  },
+  {
+    "type": "choose",
+    "text": "succeed in doing sth.",
+    "choices": [
+      "嘲笑",
+      "成功做成某事",
+      "寻找；搜寻",
+      "咬穿"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "成功做成某事的英文单词是？",
+    "answer": "succeed in doing sth."
+  },
+  {
+    "type": "choose",
+    "text": "himself",
+    "choices": [
+      "pron.他自己;他本人",
+      "prep. 在……上",
+      "n. 君主；国王",
+      "到处；遍及"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "pron.他自己;他本人的英文单词是？",
+    "answer": "himself"
+  },
+  {
+    "type": "choose",
+    "text": "in the end",
+    "choices": [
+      "adj. 愚蠢的；傻的",
+      "许下诺言",
+      "n. 美术家；艺术家",
+      "最后；终究"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "最后；终究的英文单词是？",
+    "answer": "in the end"
+  }
+]

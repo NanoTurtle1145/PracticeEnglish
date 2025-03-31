@@ -1,0 +1,34 @@
+[
+  {
+    "type": "choose",
+    "text": "succeed in doing sth.",
+    "choices": [
+      "嘲笑",
+      "成功做成某事",
+      "寻找；搜寻",
+      "咬穿"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "hen",
+    "choices": [
+      "n.天鹅",
+      "n. 母鸡",
+      "出乎某人的意料",
+      "而不是；代替"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "v.（在愉快时）发出呜呜声的英文单词是？",
+    "answer": "purr"
+  },
+  {
+    "type": "blank",
+    "text": "adv. 突然地；出乎意料地的英文单词是？",
+    "answer": "suddenly"
+  }
+]

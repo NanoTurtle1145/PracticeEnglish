@@ -1,0 +1,34 @@
+[
+  {
+    "type": "choose",
+    "text": "save",
+    "choices": [
+      "v. 拿：提",
+      "n. 鲨鱼",
+      "n. 狼",
+      "v. 救；储蓄；保存"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "whale",
+    "choices": [
+      "adj. 大的；极多的",
+      "n. 象鼻",
+      "n. 鲸",
+      "n. 三明治"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "n. 幸运；运气的英文单词是？",
+    "answer": "luck"
+  },
+  {
+    "type": "blank",
+    "text": "n. 象鼻的英文单词是？",
+    "answer": "trunk"
+  }
+]

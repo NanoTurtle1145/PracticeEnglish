@@ -1,0 +1,34 @@
+[
+  {
+    "type": "choose",
+    "text": "penguin",
+    "choices": [
+      "n. 文化",
+      "n. 象鼻",
+      "n. 企鹅",
+      "n. 狼"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "forest",
+    "choices": [
+      "v. 拿：提",
+      "n. 森林",
+      "n. 企鹅",
+      "adj. 吓人的；恐怖的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "v. 拿走：举起的英文单词是？",
+    "answer": "pick up"
+  },
+  {
+    "type": "blank",
+    "text": "v. 照顾的英文单词是？",
+    "answer": "look after"
+  }
+]

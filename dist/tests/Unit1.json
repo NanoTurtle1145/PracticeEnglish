@@ -1,0 +1,450 @@
+[
+  {
+    "type": "choose",
+    "text": "fox",
+    "choices": [
+      "adj. 大的；极多的",
+      "n. 脖子",
+      "n. 狐狸",
+      "adj. 危险的；有危害的"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "n. 狐狸的英文单词是？",
+    "answer": "fox"
+  },
+  {
+    "type": "choose",
+    "text": "giraffe",
+    "choices": [
+      "n. 长颈鹿",
+      "n. 狐狸",
+      "adj. 大的；极多的",
+      "n. 狼"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "n. 长颈鹿的英文单词是？",
+    "answer": "giraffe"
+  },
+  {
+    "type": "choose",
+    "text": "eagle",
+    "choices": [
+      "v. 救；储蓄；保存",
+      "n. 雕；鹰",
+      "n. 象鼻",
+      "n. 蛇"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "n. 雕；鹰的英文单词是？",
+    "answer": "eagle"
+  },
+  {
+    "type": "choose",
+    "text": "wolf",
+    "choices": [
+      "n. 象鼻",
+      "n. 蛇",
+      "n. 狼",
+      "n. 文化"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "n. 狼的英文单词是？",
+    "answer": "wolf"
+  },
+  {
+    "type": "choose",
+    "text": "penguin",
+    "choices": [
+      "n. 文化",
+      "n. 象鼻",
+      "n. 企鹅",
+      "n. 狼"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "n. 企鹅的英文单词是？",
+    "answer": "penguin"
+  },
+  {
+    "type": "choose",
+    "text": "care",
+    "choices": [
+      "n. 鲸",
+      "n.照顾；护理 v. 关心；在乎",
+      "adj. 爱嬉戏的；爱玩的",
+      "n. 脖子"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "n.照顾；护理 v. 关心；在乎的英文单词是？",
+    "answer": "care"
+  },
+  {
+    "type": "choose",
+    "text": "take care of",
+    "choices": [
+      "n. 长颈鹿",
+      "n. 雕；鹰",
+      "照顾；处理",
+      "n. 象鼻"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "照顾；处理的英文单词是？",
+    "answer": "take care of"
+  },
+  {
+    "type": "choose",
+    "text": "sandwich",
+    "choices": [
+      "adj. 泰国的；泰国人的 n.泰国",
+      "n.照顾；护理 v. 关心；在乎",
+      "v. 拿走：举起",
+      "n. 三明治"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "n. 三明治的英文单词是？",
+    "answer": "sandwich"
+  },
+  {
+    "type": "choose",
+    "text": "snake",
+    "choices": [
+      "n. 蛇",
+      "v. 猜测；估计",
+      "v. 救；储蓄；保存",
+      "照顾；处理"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "n. 蛇的英文单词是？",
+    "answer": "snake"
+  },
+  {
+    "type": "choose",
+    "text": "scary",
+    "choices": [
+      "n. 长颈鹿",
+      "adj. 吓人的；恐怖的",
+      "n. 三明治",
+      "adj. 泰国的；泰国人的 n.泰国"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "adj. 吓人的；恐怖的的英文单词是？",
+    "answer": "scary"
+  },
+  {
+    "type": "choose",
+    "text": "neck",
+    "choices": [
+      "v. 捡：摘",
+      "n. 鲨鱼",
+      "v. 猜测；估计",
+      "n. 脖子"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "n. 脖子的英文单词是？",
+    "answer": "neck"
+  },
+  {
+    "type": "choose",
+    "text": "guess",
+    "choices": [
+      "n. 脖子",
+      "v. 猜测；估计",
+      "adj. 大的；极多的",
+      "n. 长颈鹿"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "v. 猜测；估计的英文单词是？",
+    "answer": "guess"
+  },
+  {
+    "type": "choose",
+    "text": "shark",
+    "choices": [
+      "n. 文化",
+      "照顾；处理",
+      "n. 鲨鱼",
+      "n. 象鼻"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "n. 鲨鱼的英文单词是？",
+    "answer": "shark"
+  },
+  {
+    "type": "choose",
+    "text": "whale",
+    "choices": [
+      "adj. 大的；极多的",
+      "n. 象鼻",
+      "n. 鲸",
+      "n. 三明治"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "n. 鲸的英文单词是？",
+    "answer": "whale"
+  },
+  {
+    "type": "choose",
+    "text": "huge",
+    "choices": [
+      "adj. 大的；极多的",
+      "n.照顾；护理 v. 关心；在乎",
+      "n. 游泳者",
+      "n. 文化"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "adj. 大的；极多的的英文单词是？",
+    "answer": "huge"
+  },
+  {
+    "type": "choose",
+    "text": "Dangerous",
+    "choices": [
+      "n. 鲸",
+      "n. 游泳者",
+      "adj. 危险的；有危害的",
+      "n. 幸运；运气"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "adj. 危险的；有危害的的英文单词是？",
+    "answer": "Dangerous"
+  },
+  {
+    "type": "choose",
+    "text": "save",
+    "choices": [
+      "v. 拿：提",
+      "n. 鲨鱼",
+      "n. 狼",
+      "v. 救；储蓄；保存"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "v. 救；储蓄；保存的英文单词是？",
+    "answer": "save"
+  },
+  {
+    "type": "choose",
+    "text": "luck",
+    "choices": [
+      "n. 脖子",
+      "n. 幸运；运气",
+      "n. 游泳者",
+      "n. 蛇"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "n. 幸运；运气的英文单词是？",
+    "answer": "luck"
+  },
+  {
+    "type": "choose",
+    "text": "Thai",
+    "choices": [
+      "adj. 泰国的；泰国人的 n.泰国",
+      "n. 文化",
+      "n. 幸运；运气",
+      "v. 拿：提"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "adj. 泰国的；泰国人的 n.泰国的英文单词是？",
+    "answer": "Thai"
+  },
+  {
+    "type": "choose",
+    "text": "trunk",
+    "choices": [
+      "n. 企鹅",
+      "n. 象鼻",
+      "adj. 大的；极多的",
+      "adj. 大的；极多的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "n. 象鼻的英文单词是？",
+    "answer": "trunk"
+  },
+  {
+    "type": "choose",
+    "text": "pick",
+    "choices": [
+      "n. 三明治",
+      "n. 象鼻",
+      "v. 捡：摘",
+      "n. 象鼻"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "v. 捡：摘的英文单词是？",
+    "answer": "pick"
+  },
+  {
+    "type": "choose",
+    "text": "pick up",
+    "choices": [
+      "adj. 危险的；有危害的",
+      "n. 象鼻",
+      "v. 拿走：举起",
+      "adj. 危险的；有危害的"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "v. 拿走：举起的英文单词是？",
+    "answer": "pick up"
+  },
+  {
+    "type": "choose",
+    "text": "carry",
+    "choices": [
+      "v. 拿：提",
+      "n. 三明治",
+      "n. 森林",
+      "v. 照顾"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "v. 拿：提的英文单词是？",
+    "answer": "carry"
+  },
+  {
+    "type": "choose",
+    "text": "playful",
+    "choices": [
+      "v. 捡：摘",
+      "adj. 爱嬉戏的；爱玩的",
+      "n. 鲨鱼",
+      "n. 长颈鹿"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "adj. 爱嬉戏的；爱玩的的英文单词是？",
+    "answer": "playful"
+  },
+  {
+    "type": "choose",
+    "text": "swimmer",
+    "choices": [
+      "n. 游泳者",
+      "adj. 大的；极多的",
+      "n. 蛇",
+      "n. 象鼻"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "n. 游泳者的英文单词是？",
+    "answer": "swimmer"
+  },
+  {
+    "type": "choose",
+    "text": "forest",
+    "choices": [
+      "v. 拿：提",
+      "n. 森林",
+      "n. 企鹅",
+      "adj. 吓人的；恐怖的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "n. 森林的英文单词是？",
+    "answer": "forest"
+  },
+  {
+    "type": "choose",
+    "text": "look after",
+    "choices": [
+      "n. 长颈鹿",
+      "v. 照顾",
+      "adj. 泰国的；泰国人的 n.泰国",
+      "v. 猜测；估计"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "v. 照顾的英文单词是？",
+    "answer": "look after"
+  },
+  {
+    "type": "choose",
+    "text": "culture",
+    "choices": [
+      "v. 救；储蓄；保存",
+      "n. 文化",
+      "n. 企鹅",
+      "n. 鲸"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "n. 文化的英文单词是？",
+    "answer": "culture"
+  }
+]

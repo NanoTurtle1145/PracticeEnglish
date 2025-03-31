@@ -1,0 +1,34 @@
+[
+  {
+    "type": "choose",
+    "text": "Dragon Boat",
+    "choices": [
+      "暂缺选项1",
+      "暂缺选项3",
+      "暂缺选项2",
+      "端午节"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "Dragon Boat",
+    "choices": [
+      "暂缺选项3",
+      "端午节",
+      "暂缺选项1",
+      "暂缺选项2"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "端午节的英文单词是？",
+    "answer": "Dragon Boat"
+  },
+  {
+    "type": "blank",
+    "text": "端午节的英文单词是？",
+    "answer": "Dragon Boat"
+  }
+]

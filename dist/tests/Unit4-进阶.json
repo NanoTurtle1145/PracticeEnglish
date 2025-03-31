@@ -1,0 +1,34 @@
+[
+  {
+    "type": "choose",
+    "text": "improve",
+    "choices": [
+      "v. 改进；改善",
+      "n. 盐",
+      "n. 盐",
+      "n. 盐"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "salt",
+    "choices": [
+      "v. 改进；改善",
+      "v. 改进；改善",
+      "n. 盐",
+      "v. 改进；改善"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "n. 盐的英文单词是？",
+    "answer": "salt"
+  },
+  {
+    "type": "blank",
+    "text": "v. 改进；改善的英文单词是？",
+    "answer": "improve"
+  }
+]
