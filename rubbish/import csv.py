@@ -27,7 +27,9 @@ def generate_question_bank():
             
             # 从其他单词随机选取3个错误选项
             other_definitions = [w['definition'] for w in items if w != word_info]
-            choices += random.sample(other_definitions, 3)
+            # 修复：处理空列表情况并允许重复选项
+            selected_defs = random.choices(other_definitions, k=3) if other_definitions else ["选项缺失1", "选项缺失2", "选项缺失3"]
+            choices += selected_defs
             random.shuffle(choices)
             
             # 记录正确答案位置
@@ -39,6 +41,23 @@ def generate_question_bank():
                 "choices": choices,
                 "answer": answer
             })
+
+            # 修复后的填空题生成逻辑
+            questions.append({
+                "type": "blank",
+                "text": f"{word_info['definition']}的英文单词是？",
+                "answer": word_info['word']
+            })
+
+        # 移除有问题的验证逻辑，保持基础生成逻辑
+        if len(questions) % 2 == 0:
+            # 确保填空题的问题和答案对应
+            blank_question = {
+                "type": "blank",
+                "text": f"{word_info['definition']}的英文单词是？",
+                "answer": word_info['word']
+            }
+            questions.append(blank_question)
 
         # 保存到tests目录
         output_path = f"tests/{unit}.json"

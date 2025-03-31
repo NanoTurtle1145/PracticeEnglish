@@ -1,0 +1,34 @@
+[
+  {
+    "type": "choose",
+    "text": "long ago",
+    "choices": [
+      "很晚以前",
+      "pron.任何人；某个人",
+      "",
+      "许下诺言"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "war",
+    "choices": [
+      "n. 网；网状物",
+      "n. 战争",
+      "v. 微笑，微笑；笑容",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "起初；最初的英文单词是？",
+    "answer": "at first"
+  },
+  {
+    "type": "blank",
+    "text": "到处；遍及的英文单词是？",
+    "answer": "all over"
+  }
+]

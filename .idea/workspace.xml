@@ -7,7 +7,7 @@
     <list default="true" id="ce560c7e-6471-4573-a9e9-034de2531cf6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Unit1.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui.ui" beforeDir="false" afterPath="$PROJECT_DIR$/ui.ui" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
   "keyToString": {
     "Python.ImageUnderstanding.executor": "Run",
     "Python.format.executor": "Run",
-    "Python.main.executor": "Run",
+    "Python.main.executor": "Debug",
     "Python.readpdf.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",

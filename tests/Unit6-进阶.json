@@ -1,0 +1,34 @@
+[
+  {
+    "type": "choose",
+    "text": "rain or shine",
+    "choices": [
+      "adj. 运气好的；带来好运",
+      "n. 雪人",
+      "不论是雨或是晴；不管发生什么事",
+      "adj. 干的；干旱的"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "lucky",
+    "choices": [
+      "adv. 大量地；沉重地",
+      "adj. 干的；干旱的",
+      "n. (在现代英语里仅用于地",
+      "adj. 运气好的；带来好运"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "不论是雨或是晴；不管发生什么事的英文单词是？",
+    "answer": "rain or shine"
+  },
+  {
+    "type": "blank",
+    "text": "n. 旅行者；观光客的英文单词是？",
+    "answer": "tourist"
+  }
+]

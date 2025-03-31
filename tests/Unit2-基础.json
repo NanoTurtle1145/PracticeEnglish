@@ -11,27 +11,6 @@
     "answer": 0
   },
   {
-    "type": "blank",
-    "text": "n. 规则；规章的英文单词是？",
-    "answer": "rule"
-  },
-  {
-    "type": "choose",
-    "text": "order",
-    "choices": [
-      "n. 秩序，v. 点菜",
-      "adv. 也",
-      "adv. 也",
-      "n. 规则；规章"
-    ],
-    "answer": 0
-  },
-  {
-    "type": "blank",
-    "text": "n. 秩序，v. 点菜的英文单词是？",
-    "answer": "order"
-  },
-  {
     "type": "choose",
     "text": "either",
     "choices": [
@@ -46,5 +25,10 @@
     "type": "blank",
     "text": "adv. 也的英文单词是？",
     "answer": "either"
+  },
+  {
+    "type": "blank",
+    "text": "n. 规则；规章的英文单词是？",
+    "answer": "rule"
   }
 ]

@@ -1,6 +1,7 @@
 import json
 import os
 import sys
+from collections import defaultdict  # 添加这行导入声明
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtCore import Qt
@@ -20,23 +21,25 @@ class Ui_MainWindow(object):
 
         # 测试选择部分（调整控件顺序）
         test_choice_layout = QtWidgets.QHBoxLayout()
+        # 仅保留核心控件
         self.choose_test = QtWidgets.QComboBox()
-        self.choose_test.setObjectName("choose_test")
-        self.add_test()
-        
         self.start = QtWidgets.QPushButton("Start!")
-        self.start.setObjectName("start")
-        self.start.clicked.connect(self.start_test)
-        
-        # 退出按钮应放在最后
         self.exit_button = QtWidgets.QPushButton("退出")
-        self.exit_button.setObjectName("exit")
-        self.exit_button.clicked.connect(self.exit_test)
-        
-        # 调整控件添加顺序：下拉框 -> 开始按钮 -> 退出按钮
+
+        # 添加控件到布局
         test_choice_layout.addWidget(self.choose_test)
         test_choice_layout.addWidget(self.start)
         test_choice_layout.addWidget(self.exit_button)
+
+        # 删除以下残留代码
+        # self.main_test_combo 和 self.sub_test_combo 相关代码
+        # ... 后续布局代码 ...
+        
+        # 连接信号
+       # self.main_test_combo.currentIndexChanged.connect(self.update_sub_tests)
+
+        # 初始化题库
+        self.add_test()  # 调用新的 add_test 方法
 
         self.label = QtWidgets.QLabel("    Let's Practise English!")
         font = QtGui.QFont()
@@ -120,16 +123,53 @@ class Ui_MainWindow(object):
 
     def add_test(self):
         files = os.listdir('tests')
+        # 按单元分组存储题库文件
+        unit_groups = defaultdict(list)
+        
         for file in files:
             if file.endswith('.json'):
-                file_name = os.path.splitext(file)[0]  # 去掉 .json 后缀
-                self.choose_test.addItem(file_name)
+                # 解析文件名格式：主单元-子库编号.json
+                if '-' in file:
+                    main_unit, sub_part = file.split('-', 1)
+                    main_unit = main_unit.replace('_', ' ')
+                    sub_part = sub_part.replace('.json', '').replace('_', ' ')
+                    display_name = f"{main_unit} - {sub_part}"
+                else:
+                    main_unit = file.replace('.json', '')
+                    display_name = f"{main_unit} (完整题库)"
+                
+                unit_groups[main_unit].append((display_name, file))
+
+        # 添加分级菜单
+        for main_unit, sub_files in unit_groups.items():
+            if len(sub_files) > 1:  # 有子题库的单元
+                parent_item = QtWidgets.QTreeWidgetItem([main_unit])
+                for display_name, filename in sub_files:
+                    child_item = QtWidgets.QTreeWidgetItem([display_name])
+                    child_item.setData(0, Qt.UserRole, filename)
+                    parent_item.addChild(child_item)
+                self.choose_test.addItem(parent_item)
+            else:  # 单个题库
+                self.choose_test.addItem(*sub_files[0])
 
     def start_test(self):
-        self.data = []
         try:
-            with open("tests/" + self.choose_test.currentText() + '.json', 'r', encoding='utf-8') as f:
-                self.data = json.load(f)
+            selected = self.choose_test.currentData(Qt.UserRole)
+            if not selected:  # 选择了父节点
+                parent = self.choose_test.currentItem()
+                # 合并所有子题库
+                all_data = []
+                for i in range(parent.childCount()):
+                    child = parent.child(i)
+                    with open(f"tests/{child.data(0, Qt.UserRole)}", 'r') as f:
+                        all_data.extend(json.load(f))
+            else:  # 单个子题库
+                with open(f"tests/{selected}", 'r') as f:
+                    all_data = json.load(f)
+            
+            # 随机抽取题目（保留原功能）
+            selected_count = self.question_count.value()
+            self.data = random.sample(all_data, min(selected_count, len(all_data)))
             self.current_question_index = 0
             self.score = 0
             self.show_question()
@@ -289,3 +329,33 @@ if __name__ == "__main__":
     ui.setupUi(MainWindow)
     MainWindow.show()
     sys.exit(app.exec_())
+
+
+def update_sub_tests(self):
+    """当主题库选择变化时更新子题库"""
+    main_unit = self.main_test_combo.currentText()
+    self.sub_test_combo.clear()
+    
+    # 获取所有相关子题库文件
+    all_files = [f for f in os.listdir('tests') 
+                if f.startswith(main_unit) and f.endswith('.json')]
+    
+    # 显示友好名称（如 "Unit4-1.json" 显示为 "子题库1"）
+    for f in sorted(all_files):
+        display_name = f.replace(main_unit, '').replace('-', ' ').replace('.json', '').strip()
+        self.sub_test_combo.addItem(f"子题库 {display_name or '完整'}", f)
+
+
+# 删除 update_selection 方法
+def update_selection(self):
+    """此方法不再需要"""
+    pass
+
+# 删除与树形控件相关的信号连接
+# 找到并删除类似代码：
+# self.choose_test.itemSelectionChanged.connect(...)
+    selected = self.choose_test.currentItem()
+    if selected and selected.childCount() == 0:  # 只允许选择子项
+        self.start.setEnabled(True)
+    else:
+        self.start.setEnabled(False)

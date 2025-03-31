@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'd:\Desktop\code\practiceenglish\PracticeEnglish\ui.ui'
+# Form implementation generated from reading ui file 'ui.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.9
 #
@@ -36,9 +36,12 @@ class Ui_MainWindow(object):
         self.test_choice_layout.addWidget(self.start)
         self.test_choice_layout1 = QtWidgets.QHBoxLayout()
         self.test_choice_layout1.setObjectName("test_choice_layout1")
-        self.choose_test2 = QtWidgets.QComboBox(self.centralwidget)
-        self.choose_test2.setObjectName("choose_test2")
-        self.test_choice_layout1.addWidget(self.choose_test2)
+        self.main_test_combo = QtWidgets.QComboBox(self.centralwidget)
+        self.main_test_combo.setObjectName("main_test_combo")
+        self.test_choice_layout1.addWidget(self.main_test_combo)
+        self.sub_test_combo = QtWidgets.QComboBox(self.centralwidget)
+        self.sub_test_combo.setObjectName("sub_test_combo")
+        self.test_choice_layout1.addWidget(self.sub_test_combo)
         self.start1 = QtWidgets.QPushButton(self.centralwidget)
         self.start1.setObjectName("start1")
         self.test_choice_layout1.addWidget(self.start1)

@@ -1,0 +1,34 @@
+[
+  {
+    "type": "choose",
+    "text": "decide",
+    "choices": [
+      "n. 小鸭子",
+      "v. 决定",
+      "adv. 有希望地",
+      "成功做成某事"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "search for v.",
+    "choices": [
+      "adj. 真的；真正的",
+      "寻找；搜寻",
+      "很晚以前",
+      "adj. 符合事实的；真正的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "起初；最初的英文单词是？",
+    "answer": "at first"
+  },
+  {
+    "type": "blank",
+    "text": "v. 假装；伪装的英文单词是？",
+    "answer": "pretend"
+  }
+]
