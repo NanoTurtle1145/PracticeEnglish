@@ -39,11 +39,36 @@
 
 # 单元4（修正后的完整单元）
 1,go with,,[peə],n. 梨,Unit4,
-2,improve,[ɪmˈpruːv],v. 改进；改善,Unit4,
-179,salt,[sɔːlt],n. 盐,Unit4,
-
-# 单元5（修复格式错误）
-55,Dragon Boat,,端午节,Unit5,
+2,improve,[ɪmˈpruːv],v. 改进；改善,Unit4,179,salt,[sɔːlt],n. 盐,Unit4,
+ne
+# 单元5（完整修正版）
+1,zone,[zəʊn],n. 地区；地带；区域,Unit5,
+2,time zone,,时区,Unit5,
+3,around the world,,世界各地,Unit5,
+4,right now,,现在；立刻,Unit5,
+5,rush,[rʌʃ],n. 冲；奔,Unit5,
+6,in a hurry,,匆忙,Unit5,
+7,shine,[ʃaɪn],v. 发光；照耀；n.光亮,Unit5,
+8,brightly,[ˈbraɪtli],adv. 明亮地,Unit5,
+9,colourful,[ˈkʌləfəl],adj. 色彩鲜艳的,Unit5,
+10,slowly,[ˈsləʊli],adv. 缓慢地,Unit5,
+11,such,[sʌtʃ],adj. 这样的；那样的 pron.这样（那样）的人或事物,Unit5,
+12,such as,,例如,Unit5,
+13,painting,[ˈpeɪntɪŋ],n. 绘画作品；绘画；油画,Unit5,
+14,market,[ˈmɑːkɪt],n.市场,Unit5,
+15,side,[saɪd],n.边；侧,Unit5,
+16,side by side,,并排；并肩地,Unit5,
+17,subway,[ˈsʌbweɪ],n. 地铁,Unit5,
+18,bright,[braɪt],adj. 鲜艳的；明亮的；聪明的,Unit5,
+19,drop,[drɒp],v. 把……送至；落下；下降,Unit5,
+20,passenger,[ˈpæsɪndʒə],n. 乘客,Unit5,
+21,central,[ˈsentrəl],adj. 中心的；中央的,Unit5,
+22,take part in,,参加,Unit5,
+23,tour,[tʊə],n. 旅行；旅游,Unit5,
+24,sunshine,[ˈsʌnʃaɪn],n. 阳光,Unit5,
+25,drive,[draɪv],v. 开车；驾驶,Unit5,
+26,rush hour,,(上下班时间的)交通高峰期,Unit5,
+27,Dragon Boat,,端午节,Unit5,
 56,rain or shine,,不论是雨或是晴；不管发生什么事,Unit6,  # ← 错误！应属于Unit5
 
 # 修正后单元5结尾
@@ -73,7 +98,31 @@
 21,high,[haɪ]""",adv. adj. 高,Unit6
 22,freezing,[ˈfriːzŋ],adj. 极冷的；冰冷的,Unit6,
 23,tourist,[ˈtɒərst],n. 旅行者；观光客,Unit6,
-24,mount,[ˈmaʊnt],n. (在现代英语里仅用于地,Unit6,
+24,mount,[maʊnt],n. 山峰（需完整定义）,Unit6,
+
+# 新增单元7（完整词表）
+1,neighbourhood,[ˈneɪbəhʊd],n. 街区；邻近地区,Unit7,
+2,local,[ˈləʊkəl],adj. 当地的；本地的,Unit7,
+3,university,[ˌjuːnɪˈvɜːsɪti],n. 大学,Unit7,
+4,district,[ˈdɪstrɪkt],n. 地区；区域,Unit7,
+5,railway,[ˈreɪlweɪ],n. 铁路；铁道,Unit7,
+6,through,[θruː],prep. 穿过；通过,Unit7,
+7,whole,[həʊl],adj. 全部的；整个的,Unit7,
+8,clock tower,,钟楼,Unit7,
+9,coast,[kəʊst],n. 海岸；海滨,Unit7,
+10,coastal,[ˈkəʊstl],adj. 海岸的；沿海的,Unit7,
+11,path,[pɑːθ],n. 小路；路径,Unit7,
+12,go down,,沿着……走下去,Unit7,
+13,island,[ˈaɪlənd],n. 岛；岛屿,Unit7,
+14,beach,[biːtʃ],n. 海滩；沙滩,Unit7,
+15,seaside,[ˈsiːsaɪd],n. 海边；海滨,Unit7,
+16,swimming pool,,游泳池,Unit7,
+17,crowded,[ˈkraʊdɪd],adj. 拥挤的；挤满的,Unit7,
+18,somewhere,[ˈsʌmweə],adv. 在某处；到某处,Unit7,
+19,airport,[ˈeəpɔːt],n. 机场；航空站,Unit7,
+20,market,[ˈmɑːkɪt],n. 市场；集市,Unit7,
+
+# 修复Unit8起始标记（原错误标记在Unit6末尾）
 1,upon,[əˈpɒn],prep. 在……上,Unit8,
 2,once upon a time,,从前；很久以前,Unit8,
 3,bite,[bɑːt],v. 咬；咬伤,Unit8,

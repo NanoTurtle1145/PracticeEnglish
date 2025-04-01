@@ -1,34 +1,34 @@
 [
   {
     "type": "choose",
-    "text": "snake",
+    "text": "wolf",
     "choices": [
-      "n. 蛇",
-      "v. 猜测；估计",
-      "v. 救；储蓄；保存",
-      "照顾；处理"
-    ],
-    "answer": 0
-  },
-  {
-    "type": "choose",
-    "text": "neck",
-    "choices": [
-      "v. 捡：摘",
-      "n. 鲨鱼",
-      "v. 猜测；估计",
-      "n. 脖子"
+      "v. 拿走：举起",
+      "adj. 爱嬉戏的；爱玩的",
+      "adj. 爱嬉戏的；爱玩的",
+      "n. 狼"
     ],
     "answer": 3
   },
   {
-    "type": "blank",
-    "text": "adj. 泰国的；泰国人的 n.泰国的英文单词是？",
-    "answer": "Thai"
+    "type": "choose",
+    "text": "whale",
+    "choices": [
+      "n. 鲸",
+      "n. 长颈鹿",
+      "n. 狼",
+      "v. 捡：摘"
+    ],
+    "answer": 0
   },
   {
     "type": "blank",
-    "text": "adj. 危险的；有危害的的英文单词是？",
-    "answer": "Dangerous"
+    "text": "n. 企鹅的英文单词是？",
+    "answer": "penguin"
+  },
+  {
+    "type": "blank",
+    "text": "v. 拿：提的英文单词是？",
+    "answer": "carry"
   }
 ]

@@ -1,34 +1,34 @@
 [
   {
     "type": "choose",
-    "text": "long ago",
+    "text": "laugh at",
     "choices": [
-      "很晚以前",
-      "pron.任何人；某个人",
-      "",
-      "许下诺言"
+      "走开",
+      "n.大小；尺寸",
+      "adj. 符合事实的；真正的",
+      "嘲笑"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "type": "choose",
-    "text": "war",
+    "text": "quickly",
     "choices": [
-      "n. 网；网状物",
-      "n. 战争",
-      "v. 微笑，微笑；笑容",
-      ""
+      "成功做成某事",
+      "最后；终究",
+      "n. 君主；国王",
+      "adv. 快速地；很快"
     ],
-    "answer": 1
+    "answer": 3
   },
   {
     "type": "blank",
-    "text": "起初；最初的英文单词是？",
-    "answer": "at first"
+    "text": "说实话的英文单词是？",
+    "answer": "tell the truth"
   },
   {
     "type": "blank",
-    "text": "到处；遍及的英文单词是？",
-    "answer": "all over"
+    "text": "走开的英文单词是？",
+    "answer": "go away"
   }
 ]

@@ -1,0 +1,322 @@
+[
+  {
+    "type": "choose",
+    "text": "neighbourhood",
+    "choices": [
+      "adv. 在某处；到某处",
+      "钟楼",
+      "n. 街区；邻近地区",
+      "n. 海边；海滨"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "n. 街区；邻近地区的英文单词是？",
+    "answer": "neighbourhood"
+  },
+  {
+    "type": "choose",
+    "text": "local",
+    "choices": [
+      "adj. 当地的；本地的",
+      "n. 市场；集市",
+      "n. 街区；邻近地区",
+      "n. 海边；海滨"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "adj. 当地的；本地的的英文单词是？",
+    "answer": "local"
+  },
+  {
+    "type": "choose",
+    "text": "university",
+    "choices": [
+      "n. 街区；邻近地区",
+      "n. 街区；邻近地区",
+      "n. 大学",
+      "adj. 当地的；本地的"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "n. 大学的英文单词是？",
+    "answer": "university"
+  },
+  {
+    "type": "choose",
+    "text": "district",
+    "choices": [
+      "游泳池",
+      "n. 岛；岛屿",
+      "n. 市场；集市",
+      "n. 地区；区域"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "n. 地区；区域的英文单词是？",
+    "answer": "district"
+  },
+  {
+    "type": "choose",
+    "text": "railway",
+    "choices": [
+      "沿着……走下去",
+      "n. 海边；海滨",
+      "n. 街区；邻近地区",
+      "n. 铁路；铁道"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "n. 铁路；铁道的英文单词是？",
+    "answer": "railway"
+  },
+  {
+    "type": "choose",
+    "text": "through",
+    "choices": [
+      "prep. 穿过；通过",
+      "n. 海滩；沙滩",
+      "n. 市场；集市",
+      "n. 海滩；沙滩"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "prep. 穿过；通过的英文单词是？",
+    "answer": "through"
+  },
+  {
+    "type": "choose",
+    "text": "whole",
+    "choices": [
+      "adj. 当地的；本地的",
+      "adj. 全部的；整个的",
+      "n. 市场；集市",
+      "n. 大学"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "adj. 全部的；整个的的英文单词是？",
+    "answer": "whole"
+  },
+  {
+    "type": "choose",
+    "text": "clock tower",
+    "choices": [
+      "钟楼",
+      "n. 街区；邻近地区",
+      "游泳池",
+      "n. 机场；航空站"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "钟楼的英文单词是？",
+    "answer": "clock tower"
+  },
+  {
+    "type": "choose",
+    "text": "coast",
+    "choices": [
+      "adj. 全部的；整个的",
+      "n. 小路；路径",
+      "n. 海岸；海滨",
+      "adj. 当地的；本地的"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "n. 海岸；海滨的英文单词是？",
+    "answer": "coast"
+  },
+  {
+    "type": "choose",
+    "text": "coastal",
+    "choices": [
+      "n. 小路；路径",
+      "adj. 海岸的；沿海的",
+      "钟楼",
+      "n. 海岸；海滨"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "adj. 海岸的；沿海的的英文单词是？",
+    "answer": "coastal"
+  },
+  {
+    "type": "choose",
+    "text": "path",
+    "choices": [
+      "prep. 穿过；通过",
+      "n. 海滩；沙滩",
+      "prep. 穿过；通过",
+      "n. 小路；路径"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "n. 小路；路径的英文单词是？",
+    "answer": "path"
+  },
+  {
+    "type": "choose",
+    "text": "go down",
+    "choices": [
+      "沿着……走下去",
+      "prep. 穿过；通过",
+      "n. 市场；集市",
+      "adj. 海岸的；沿海的"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "沿着……走下去的英文单词是？",
+    "answer": "go down"
+  },
+  {
+    "type": "choose",
+    "text": "island",
+    "choices": [
+      "游泳池",
+      "n. 地区；区域",
+      "n. 岛；岛屿",
+      "n. 小路；路径"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "n. 岛；岛屿的英文单词是？",
+    "answer": "island"
+  },
+  {
+    "type": "choose",
+    "text": "beach",
+    "choices": [
+      "游泳池",
+      "n. 海滩；沙滩",
+      "n. 岛；岛屿",
+      "n. 海岸；海滨"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "n. 海滩；沙滩的英文单词是？",
+    "answer": "beach"
+  },
+  {
+    "type": "choose",
+    "text": "seaside",
+    "choices": [
+      "n. 海边；海滨",
+      "n. 小路；路径",
+      "n. 街区；邻近地区",
+      "adj. 海岸的；沿海的"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "n. 海边；海滨的英文单词是？",
+    "answer": "seaside"
+  },
+  {
+    "type": "choose",
+    "text": "swimming pool",
+    "choices": [
+      "n. 小路；路径",
+      "n. 机场；航空站",
+      "游泳池",
+      "n. 海滩；沙滩"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "游泳池的英文单词是？",
+    "answer": "swimming pool"
+  },
+  {
+    "type": "choose",
+    "text": "crowded",
+    "choices": [
+      "adv. 在某处；到某处",
+      "adj. 海岸的；沿海的",
+      "adj. 拥挤的；挤满的",
+      "n. 市场；集市"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "adj. 拥挤的；挤满的的英文单词是？",
+    "answer": "crowded"
+  },
+  {
+    "type": "choose",
+    "text": "somewhere",
+    "choices": [
+      "n. 铁路；铁道",
+      "adj. 海岸的；沿海的",
+      "adv. 在某处；到某处",
+      "n. 海岸；海滨"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "adv. 在某处；到某处的英文单词是？",
+    "answer": "somewhere"
+  },
+  {
+    "type": "choose",
+    "text": "airport",
+    "choices": [
+      "n. 机场；航空站",
+      "n. 海滩；沙滩",
+      "n. 地区；区域",
+      "n. 市场；集市"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "n. 机场；航空站的英文单词是？",
+    "answer": "airport"
+  },
+  {
+    "type": "choose",
+    "text": "market",
+    "choices": [
+      "n. 海岸；海滨",
+      "n. 市场；集市",
+      "adj. 海岸的；沿海的",
+      "n. 街区；邻近地区"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "n. 市场；集市的英文单词是？",
+    "answer": "market"
+  }
+]

@@ -4,9 +4,9 @@
     "text": "upon",
     "choices": [
       "prep. 在……上",
-      "v. 假装；伪装",
-      "adj. 愚蠢的；傻的",
-      "n. 赞美；表扬"
+      "n.羽毛",
+      "起初；最初",
+      "adj. 愚蠢的；傻的"
     ],
     "answer": 0
   },
@@ -19,12 +19,12 @@
     "type": "choose",
     "text": "once upon a time",
     "choices": [
-      "寻找；搜寻",
-      "n. 赞美；表扬",
-      "从前；很久以前",
-      "pron.他自己;他本人"
+      "adj.强大的；有影响力的",
+      "逃脱；离开",
+      "起初；最初",
+      "从前；很久以前"
     ],
-    "answer": 2
+    "answer": 3
   },
   {
     "type": "blank",
@@ -35,12 +35,12 @@
     "type": "choose",
     "text": "bite",
     "choices": [
-      "许下诺言",
-      "adj. 愚蠢的；傻的",
-      "v. 咬；咬伤",
-      "走开"
+      "v. 假装；伪装",
+      "赚钱",
+      "走开",
+      "v. 咬；咬伤"
     ],
-    "answer": 2
+    "answer": 3
   },
   {
     "type": "blank",
@@ -51,12 +51,12 @@
     "type": "choose",
     "text": "bite through",
     "choices": [
-      "最后；终究",
-      "v. 决定",
-      "出乎某人的意料",
-      "咬穿"
+      "赚钱",
+      "咬穿",
+      "n. 官员；高级职员",
+      "赚钱"
     ],
-    "answer": 3
+    "answer": 1
   },
   {
     "type": "blank",
@@ -67,12 +67,12 @@
     "type": "choose",
     "text": "net",
     "choices": [
-      "n. 母鸡",
-      "很晚以前",
-      "n.大小；尺寸",
-      "n. 网；网状物"
+      "成功做成某事",
+      "n. 网；网状物",
+      "pron.某人；有人",
+      "adj. 丑陋的；难看的"
     ],
-    "answer": 3
+    "answer": 1
   },
   {
     "type": "blank",
@@ -84,9 +84,9 @@
     "text": "hunter",
     "choices": [
       "n. 猎人；搜寻者",
-      "v. 咬；咬伤",
-      "adj. 符合事实的；真正的",
-      "很晚以前"
+      "很晚以前",
+      "adj. 害怕的；担心的",
+      "v. 假装；伪装"
     ],
     "answer": 0
   },
@@ -99,12 +99,12 @@
     "type": "choose",
     "text": "promise",
     "choices": [
+      "n. 网；网状物",
+      "n. 皇帝",
       "v. 承诺；保证；n. 承诺；诺言",
-      "v. 不喜欢；厌恶；讨厌",
-      "v.（laid)下（蛋）；放置；搁",
-      "走开"
+      "pron.他自己;他本人"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "type": "blank",
@@ -115,12 +115,12 @@
     "type": "choose",
     "text": "long ago",
     "choices": [
+      "adv. 快速地；很快",
       "很晚以前",
-      "pron.任何人；某个人",
-      "",
-      "许下诺言"
+      "n. 猎人；搜寻者",
+      "起初；最初"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "type": "blank",
@@ -131,12 +131,12 @@
     "type": "choose",
     "text": "war",
     "choices": [
-      "n. 网；网状物",
       "n. 战争",
-      "v. 微笑，微笑；笑容",
-      ""
+      "嘲笑",
+      "adv. 突然地；出乎意料地",
+      "而不是；代替"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "type": "blank",
@@ -147,12 +147,12 @@
     "type": "choose",
     "text": "neighbour",
     "choices": [
-      "n. 真相；事实",
+      "最后；终究",
+      "n.妖怪；鬼",
       "n. 邻居",
-      "到处；遍及",
-      "v.使处于某种状态；使开始释放"
+      "adj. 真的；真正的"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
     "type": "blank",
@@ -163,12 +163,12 @@
     "type": "choose",
     "text": "wise",
     "choices": [
-      "pron.某人；有人",
-      "n.羽毛",
-      "",
-      "adj. 明智的；高明的"
+      "走开",
+      "adv. 有希望地",
+      "adj. 明智的；高明的",
+      "寻找；搜寻"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
     "type": "blank",
@@ -179,10 +179,10 @@
     "type": "choose",
     "text": "emperor",
     "choices": [
-      "v. 微笑，微笑；笑容",
-      "成功做成某事",
+      "n.死亡；消失",
+      "prep. 在……上",
       "n. 皇帝",
-      "adj. 明智的；高明的"
+      "出乎某人的意料"
     ],
     "answer": 2
   },
@@ -195,12 +195,12 @@
     "type": "choose",
     "text": "lie",
     "choices": [
-      "v. 承诺；保证；n. 承诺；诺言",
-      "n. 美术家；艺术家",
-      "adj. 愚蠢的；傻的",
-      "v. 撒谎，n. 谎言"
+      "n.大小；尺寸",
+      "v. 撒谎，n. 谎言",
+      "很晚以前",
+      "v. 决定"
     ],
-    "answer": 3
+    "answer": 1
   },
   {
     "type": "blank",
@@ -211,10 +211,10 @@
     "type": "choose",
     "text": "pretend",
     "choices": [
-      "出乎某人的意料",
+      "v.（在愉快时）发出呜呜声",
       "v. 假装；伪装",
-      "起初；最初",
-      "起初；最初"
+      "说实话",
+      "n.天鹅"
     ],
     "answer": 1
   },
@@ -227,12 +227,12 @@
     "type": "choose",
     "text": "official",
     "choices": [
-      "pron.任何人；某个人",
+      "逃脱；离开",
+      "n. 美术家；艺术家",
       "n. 官员；高级职员",
-      "n. 邻居",
-      "adj. 明智的；高明的"
+      "v.（laid)下（蛋）；放置；搁"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
     "type": "blank",
@@ -243,12 +243,12 @@
     "type": "choose",
     "text": "silly",
     "choices": [
-      "n. 母鸡",
-      "v.（laid)下（蛋）；放置；搁",
-      "v. 撒谎，n. 谎言",
-      "adj. 愚蠢的；傻的"
+      "走开",
+      "adj. 愚蠢的；傻的",
+      "出现；盛开",
+      "n. 美术家；艺术家"
     ],
-    "answer": 3
+    "answer": 1
   },
   {
     "type": "blank",
@@ -259,10 +259,10 @@
     "type": "choose",
     "text": "decide",
     "choices": [
-      "n. 小鸭子",
+      "n. 皇帝",
       "v. 决定",
-      "adv. 有希望地",
-      "成功做成某事"
+      "逃脱；离开",
+      "出乎某人的意料"
     ],
     "answer": 1
   },
@@ -275,12 +275,12 @@
     "type": "choose",
     "text": "praise",
     "choices": [
+      "n. 真相；事实",
+      "n.妖怪；鬼",
       "n. 赞美；表扬",
-      "许下诺言",
-      "n. 君主；国王",
-      "v. 微笑，微笑；笑容"
+      "v.使处于某种状态；使开始释放"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "type": "blank",
@@ -291,12 +291,12 @@
     "type": "choose",
     "text": "afraid",
     "choices": [
-      "说实话",
-      "n.死亡；消失",
       "adj. 害怕的；担心的",
-      "adj. 真的；真正的"
+      "pron.任何人；某个人",
+      "n.大小；尺寸",
+      "n. 官员；高级职员"
     ],
-    "answer": 2
+    "answer": 0
   },
   {
     "type": "blank",
@@ -307,12 +307,12 @@
     "type": "choose",
     "text": "suddenly",
     "choices": [
-      "v. 微笑，微笑；笑容",
       "adv. 突然地；出乎意料地",
-      "出现；盛开",
-      "n. 皇帝"
+      "pron.某人；有人",
+      "n. 战争",
+      "adj. 丑陋的；难看的"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "type": "blank",
@@ -324,9 +324,9 @@
     "text": "at first",
     "choices": [
       "起初；最初",
-      "adv. 突然地；出乎意料地",
-      "寻找；搜寻",
-      "n. 官员；高级职员"
+      "n. 母鸡",
+      "adv. 快速地；很快",
+      "最后；终究"
     ],
     "answer": 0
   },
@@ -339,12 +339,12 @@
     "type": "choose",
     "text": "truth",
     "choices": [
+      "prep. 在……上",
       "n. 真相；事实",
-      "最后；终究",
-      "n. 邻居",
-      "n. 母鸡"
+      "adj. 真的；真正的",
+      "说实话"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "type": "blank",
@@ -355,12 +355,12 @@
     "type": "choose",
     "text": "tell the truth",
     "choices": [
+      "赚钱",
       "说实话",
-      "出乎某人的意料",
-      "n. 真相；事实",
-      "adj. 符合事实的；真正的"
+      "咬穿",
+      "v. 撒谎，n. 谎言"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "type": "blank",
@@ -371,12 +371,12 @@
     "type": "choose",
     "text": "make money",
     "choices": [
+      "到处；遍及",
+      "adv. 快速地；很快",
       "n. 美术家；艺术家",
-      "adv. 突然地；出乎意料地",
-      "赚钱",
-      "adj. 害怕的；担心的"
+      "赚钱"
     ],
-    "answer": 2
+    "answer": 3
   },
   {
     "type": "blank",
@@ -387,12 +387,12 @@
     "type": "choose",
     "text": "TRUE",
     "choices": [
-      "到处；遍及",
-      "n.羽毛",
-      "起初；最初",
-      "adj. 符合事实的；真正的"
+      "n.妖怪；鬼",
+      "adj. 符合事实的；真正的",
+      "adj. 愚蠢的；傻的",
+      "v. 承诺；保证；n. 承诺；诺言"
     ],
-    "answer": 3
+    "answer": 1
   },
   {
     "type": "blank",
@@ -403,12 +403,12 @@
     "type": "choose",
     "text": "hate",
     "choices": [
-      "v. 不喜欢；厌恶；讨厌",
-      "pron.任何人；某个人",
-      "起初；最初",
-      "prep. 在……上"
+      "而不是；代替",
+      "v. 咬；咬伤",
+      "n.死亡；消失",
+      "v. 不喜欢；厌恶；讨厌"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "type": "blank",
@@ -419,12 +419,12 @@
     "type": "choose",
     "text": "get out",
     "choices": [
+      "起初；最初",
+      "很晚以前",
       "逃脱；离开",
-      "v. 决定",
-      "pron.他自己;他本人",
-      "嘲笑"
+      "出乎某人的意料"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "type": "blank",
@@ -435,12 +435,12 @@
     "type": "choose",
     "text": "king",
     "choices": [
-      "adj. 害怕的；担心的",
       "n. 君主；国王",
-      "咬穿",
-      "n. 官员；高级职员"
+      "赚钱",
+      "v.（laid)下（蛋）；放置；搁",
+      "n.羽毛"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "type": "blank",
@@ -451,10 +451,10 @@
     "type": "choose",
     "text": "artist",
     "choices": [
-      "寻找；搜寻",
+      "adj.富有的；含有……的",
       "n. 美术家；艺术家",
-      "n. 网；网状物",
-      "n. 战争"
+      "adj. 明智的；高明的",
+      "adj. 符合事实的；真正的"
     ],
     "answer": 1
   },
@@ -467,12 +467,12 @@
     "type": "choose",
     "text": "quickly",
     "choices": [
-      "赚钱",
-      "adv. 快速地；很快",
-      "从前；很久以前",
-      "adj. 愚蠢的；傻的"
+      "成功做成某事",
+      "最后；终究",
+      "n. 君主；国王",
+      "adv. 快速地；很快"
     ],
-    "answer": 1
+    "answer": 3
   },
   {
     "type": "blank",
@@ -483,12 +483,12 @@
     "type": "choose",
     "text": "smile",
     "choices": [
-      "嘲笑",
-      "v. 微笑，微笑；笑容",
-      "n.天鹅",
-      "许下诺言"
+      "寻找；搜寻",
+      "v.使处于某种状态；使开始释放",
+      "赚钱",
+      "v. 微笑，微笑；笑容"
     ],
-    "answer": 1
+    "answer": 3
   },
   {
     "type": "blank",
@@ -499,12 +499,12 @@
     "type": "choose",
     "text": "all over",
     "choices": [
-      "到处；遍及",
-      "n. 真相；事实",
-      "adj. 丑陋的；难看的",
-      "v. 假装；伪装"
+      "出现；盛开",
+      "n. 官员；高级职员",
+      "n. 赞美；表扬",
+      "到处；遍及"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "type": "blank",
@@ -515,12 +515,12 @@
     "type": "choose",
     "text": "ugly",
     "choices": [
-      "n. 猎人；搜寻者",
-      "起初；最初",
-      "adj. 丑陋的；难看的",
-      "v. 承诺；保证；n. 承诺；诺言"
+      "n. 真相；事实",
+      "",
+      "adv. 突然地；出乎意料地",
+      "adj. 丑陋的；难看的"
     ],
-    "answer": 2
+    "answer": 3
   },
   {
     "type": "blank",
@@ -531,9 +531,9 @@
     "type": "choose",
     "text": "duckling",
     "choices": [
+      "v. 微笑，微笑；笑容",
       "n. 真相；事实",
-      "adj. 害怕的；担心的",
-      "n.羽毛",
+      "prep. 在……上",
       "n. 小鸭子"
     ],
     "answer": 3
@@ -547,12 +547,12 @@
     "type": "choose",
     "text": "real",
     "choices": [
-      "n. 网；网状物",
       "adj. 真的；真正的",
-      "n.妖怪；鬼",
-      "pron.某人；有人"
+      "赚钱",
+      "咬穿",
+      "n. 皇帝"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "type": "blank",
@@ -563,9 +563,9 @@
     "type": "choose",
     "text": "laugh at",
     "choices": [
-      "n. 小鸭子",
-      "成功做成某事",
-      "n. 网；网状物",
+      "走开",
+      "n.大小；尺寸",
+      "adj. 符合事实的；真正的",
       "嘲笑"
     ],
     "answer": 3
@@ -579,12 +579,12 @@
     "type": "choose",
     "text": "go away",
     "choices": [
-      "而不是；代替",
       "走开",
-      "v. 咬；咬伤",
-      "到处；遍及"
+      "n. 官员；高级职员",
+      "v. 假装；伪装",
+      "n. 猎人；搜寻者"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "type": "blank",
@@ -595,10 +595,10 @@
     "type": "choose",
     "text": "search for v.",
     "choices": [
-      "adj. 真的；真正的",
+      "n. 战争",
       "寻找；搜寻",
-      "很晚以前",
-      "adj. 符合事实的；真正的"
+      "adv. 快速地；很快",
+      "v. 承诺；保证；n. 承诺；诺言"
     ],
     "answer": 1
   },
@@ -611,10 +611,10 @@
     "type": "choose",
     "text": "hen",
     "choices": [
-      "n.天鹅",
+      "adv. 突然地；出乎意料地",
       "n. 母鸡",
-      "出乎某人的意料",
-      "而不是；代替"
+      "n. 网；网状物",
+      "v.（在愉快时）发出呜呜声"
     ],
     "answer": 1
   },
@@ -627,12 +627,12 @@
     "type": "choose",
     "text": "hopefully",
     "choices": [
-      "adj. 丑陋的；难看的",
-      "出乎某人的意料",
       "adv. 有希望地",
-      "成功做成某事"
+      "最后；终究",
+      "adj. 害怕的；担心的",
+      "n.妖怪；鬼"
     ],
-    "answer": 2
+    "answer": 0
   },
   {
     "type": "blank",
@@ -643,10 +643,10 @@
     "type": "choose",
     "text": "purr",
     "choices": [
-      "adj. 真的；真正的",
-      "到处；遍及",
+      "adj. 明智的；高明的",
+      "寻找；搜寻",
       "v.（在愉快时）发出呜呜声",
-      "adj. 愚蠢的；傻的"
+      "v. 承诺；保证；n. 承诺；诺言"
     ],
     "answer": 2
   },
@@ -659,12 +659,12 @@
     "type": "choose",
     "text": "lay",
     "choices": [
-      "prep. 在……上",
+      "嘲笑",
+      "出现；盛开",
       "v.（laid)下（蛋）；放置；搁",
-      "adj. 丑陋的；难看的",
-      "n. 赞美；表扬"
+      "n. 战争"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
     "type": "blank",
@@ -675,12 +675,12 @@
     "type": "choose",
     "text": "swan",
     "choices": [
-      "v.（laid)下（蛋）；放置；搁",
-      "最后；终究",
-      "v.（在愉快时）发出呜呜声",
-      "n.天鹅"
+      "n. 小鸭子",
+      "n. 母鸡",
+      "n.天鹅",
+      "赚钱"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
     "type": "blank",
@@ -691,12 +691,12 @@
     "type": "choose",
     "text": "feather",
     "choices": [
-      "adj. 符合事实的；真正的",
-      "v.（在愉快时）发出呜呜声",
-      "n. 美术家；艺术家",
-      "n.羽毛"
+      "n.羽毛",
+      "v. 咬；咬伤",
+      "v.（laid)下（蛋）；放置；搁",
+      "n. 母鸡"
     ],
-    "answer": 3
+    "answer": 0
   },
   {
     "type": "blank",
@@ -707,9 +707,9 @@
     "type": "choose",
     "text": "to sb's surprise",
     "choices": [
-      "n. 猎人；搜寻者",
-      "n.大小；尺寸",
-      "n. 官员；高级职员",
+      "adv. 快速地；很快",
+      "n. 网；网状物",
+      "adj. 愚蠢的；傻的",
       "出乎某人的意料"
     ],
     "answer": 3
@@ -723,12 +723,12 @@
     "type": "choose",
     "text": "size",
     "choices": [
-      "n. 官员；高级职员",
+      "v. 假装；伪装",
+      "adv. 有希望地",
       "n.大小；尺寸",
-      "很晚以前",
-      "adj. 真的；真正的"
+      "n. 真相；事实"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
     "type": "blank",
@@ -739,12 +739,12 @@
     "type": "choose",
     "text": "come out",
     "choices": [
-      "n.羽毛",
-      "v.（在愉快时）发出呜呜声",
-      "出现；盛开",
-      "很晚以前"
+      "adj. 害怕的；担心的",
+      "prep. 在……上",
+      "v. 承诺；保证；n. 承诺；诺言",
+      "出现；盛开"
     ],
-    "answer": 2
+    "answer": 3
   },
   {
     "type": "blank",
@@ -755,12 +755,12 @@
     "type": "choose",
     "text": "genie",
     "choices": [
-      "n. 官员；高级职员",
-      "n.妖怪；鬼",
-      "v.（在愉快时）发出呜呜声",
-      ""
+      "adj. 符合事实的；真正的",
+      "n.羽毛",
+      "走开",
+      "n.妖怪；鬼"
     ],
-    "answer": 1
+    "answer": 3
   },
   {
     "type": "blank",
@@ -771,12 +771,12 @@
     "type": "choose",
     "text": "die",
     "choices": [
-      "adj. 愚蠢的；傻的",
-      "n.天鹅",
-      "n. 网；网状物",
-      "n.死亡；消失"
+      "赚钱",
+      "adj. 符合事实的；真正的",
+      "n.死亡；消失",
+      "prep. 在……上"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
     "type": "blank",
@@ -787,12 +787,12 @@
     "type": "choose",
     "text": "make a promise",
     "choices": [
-      "v. 不喜欢；厌恶；讨厌",
-      "很晚以前",
-      "许下诺言",
-      "v. 咬；咬伤"
+      "到处；遍及",
+      "n. 母鸡",
+      "pron.某人；有人",
+      "许下诺言"
     ],
-    "answer": 2
+    "answer": 3
   },
   {
     "type": "blank",
@@ -803,9 +803,9 @@
     "type": "choose",
     "text": "someone",
     "choices": [
-      "prep. 在……上",
-      "说实话",
-      "说实话",
+      "v. 微笑，微笑；笑容",
+      "咬穿",
+      "咬穿",
       "pron.某人；有人"
     ],
     "answer": 3
@@ -819,12 +819,12 @@
     "type": "choose",
     "text": "set",
     "choices": [
-      "n. 赞美；表扬",
-      "adj. 符合事实的；真正的",
-      "v.使处于某种状态；使开始释放",
-      "n. 战争"
+      "v.（laid)下（蛋）；放置；搁",
+      "咬穿",
+      "出乎某人的意料",
+      "v.使处于某种状态；使开始释放"
     ],
-    "answer": 2
+    "answer": 3
   },
   {
     "type": "blank",
@@ -835,12 +835,12 @@
     "type": "choose",
     "text": "set…free",
     "choices": [
+      "咬穿",
+      "赚钱",
       "adj.富有的；含有……的",
-      "v. 咬；咬伤",
-      "很晚以前",
-      "而不是；代替"
+      "v. 决定"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "type": "blank",
@@ -851,12 +851,12 @@
     "type": "choose",
     "text": "rich",
     "choices": [
-      "赚钱",
-      "v. 不喜欢；厌恶；讨厌",
-      "adj. 符合事实的；真正的",
-      "adj.强大的；有影响力的"
+      "成功做成某事",
+      "v. 假装；伪装",
+      "adj.强大的；有影响力的",
+      "n.妖怪；鬼"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
     "type": "blank",
@@ -867,12 +867,12 @@
     "type": "choose",
     "text": "powerful",
     "choices": [
-      "adj. 符合事实的；真正的",
-      "n.大小；尺寸",
-      "pron.任何人；某个人",
-      "很晚以前"
+      "很晚以前",
+      "很晚以前",
+      "走开",
+      "pron.任何人；某个人"
     ],
-    "answer": 2
+    "answer": 3
   },
   {
     "type": "blank",
@@ -883,12 +883,12 @@
     "type": "choose",
     "text": "anyone",
     "choices": [
-      "n. 网；网状物",
       "",
-      "adv. 突然地；出乎意料地",
-      "adj. 害怕的；担心的"
+      "走开",
+      "逃脱；离开",
+      "n. 网；网状物"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "type": "blank",
@@ -899,9 +899,9 @@
     "type": "choose",
     "text": "instead of",
     "choices": [
-      "很晚以前",
-      "n. 官员；高级职员",
-      "走开",
+      "adj. 真的；真正的",
+      "pron.任何人；某个人",
+      "n. 美术家；艺术家",
       "而不是；代替"
     ],
     "answer": 3
@@ -915,12 +915,12 @@
     "type": "choose",
     "text": "succeed in doing sth.",
     "choices": [
-      "嘲笑",
       "成功做成某事",
-      "寻找；搜寻",
-      "咬穿"
+      "n. 猎人；搜寻者",
+      "n.羽毛",
+      "n. 官员；高级职员"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "type": "blank",
@@ -931,12 +931,12 @@
     "type": "choose",
     "text": "himself",
     "choices": [
+      "pron.某人；有人",
       "pron.他自己;他本人",
-      "prep. 在……上",
-      "n. 君主；国王",
-      "到处；遍及"
+      "adj. 真的；真正的",
+      "出乎某人的意料"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "type": "blank",
@@ -947,9 +947,9 @@
     "type": "choose",
     "text": "in the end",
     "choices": [
-      "adj. 愚蠢的；傻的",
-      "许下诺言",
-      "n. 美术家；艺术家",
+      "n.妖怪；鬼",
+      "v.（laid)下（蛋）；放置；搁",
+      "n.天鹅",
       "最后；终究"
     ],
     "answer": 3

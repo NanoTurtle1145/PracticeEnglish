@@ -1,25 +1,25 @@
 [
   {
     "type": "choose",
-    "text": "Dragon Boat",
+    "text": "such as",
     "choices": [
-      "暂缺选项3",
+      "例如",
+      "并排；并肩地",
       "端午节",
-      "暂缺选项1",
-      "暂缺选项2"
+      "v. 把……送至；落下；下降"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "type": "choose",
     "text": "Dragon Boat",
     "choices": [
-      "暂缺选项1",
-      "暂缺选项3",
-      "暂缺选项2",
-      "端午节"
+      "例如",
+      "端午节",
+      "n.市场",
+      "现在；立刻"
     ],
-    "answer": 3
+    "answer": 1
   },
   {
     "type": "blank",
@@ -28,7 +28,7 @@
   },
   {
     "type": "blank",
-    "text": "端午节的英文单词是？",
-    "answer": "Dragon Boat"
+    "text": "v. 开车；驾驶的英文单词是？",
+    "answer": "drive"
   }
 ]

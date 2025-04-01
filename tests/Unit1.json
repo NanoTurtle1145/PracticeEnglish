@@ -3,10 +3,10 @@
     "type": "choose",
     "text": "fox",
     "choices": [
-      "adj. 大的；极多的",
-      "n. 脖子",
+      "n. 鲨鱼",
+      "n. 幸运；运气",
       "n. 狐狸",
-      "adj. 危险的；有危害的"
+      "v. 猜测；估计"
     ],
     "answer": 2
   },
@@ -19,12 +19,12 @@
     "type": "choose",
     "text": "giraffe",
     "choices": [
+      "n. 森林",
       "n. 长颈鹿",
       "n. 狐狸",
-      "adj. 大的；极多的",
-      "n. 狼"
+      "n. 文化"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "type": "blank",
@@ -35,12 +35,12 @@
     "type": "choose",
     "text": "eagle",
     "choices": [
-      "v. 救；储蓄；保存",
       "n. 雕；鹰",
-      "n. 象鼻",
-      "n. 蛇"
+      "adj. 大的；极多的",
+      "adj. 爱嬉戏的；爱玩的",
+      "n. 幸运；运气"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "type": "blank",
@@ -51,12 +51,12 @@
     "type": "choose",
     "text": "wolf",
     "choices": [
-      "n. 象鼻",
-      "n. 蛇",
-      "n. 狼",
-      "n. 文化"
+      "v. 拿走：举起",
+      "adj. 爱嬉戏的；爱玩的",
+      "adj. 爱嬉戏的；爱玩的",
+      "n. 狼"
     ],
-    "answer": 2
+    "answer": 3
   },
   {
     "type": "blank",
@@ -67,12 +67,12 @@
     "type": "choose",
     "text": "penguin",
     "choices": [
-      "n. 文化",
-      "n. 象鼻",
       "n. 企鹅",
-      "n. 狼"
+      "n. 长颈鹿",
+      "n. 三明治",
+      "n. 长颈鹿"
     ],
-    "answer": 2
+    "answer": 0
   },
   {
     "type": "blank",
@@ -83,12 +83,12 @@
     "type": "choose",
     "text": "care",
     "choices": [
-      "n. 鲸",
       "n.照顾；护理 v. 关心；在乎",
-      "adj. 爱嬉戏的；爱玩的",
+      "n. 狼",
+      "n. 脖子",
       "n. 脖子"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "type": "blank",
@@ -99,12 +99,12 @@
     "type": "choose",
     "text": "take care of",
     "choices": [
-      "n. 长颈鹿",
-      "n. 雕；鹰",
       "照顾；处理",
-      "n. 象鼻"
+      "adj. 爱嬉戏的；爱玩的",
+      "adj. 危险的；有危害的",
+      "n. 狼"
     ],
-    "answer": 2
+    "answer": 0
   },
   {
     "type": "blank",
@@ -115,12 +115,12 @@
     "type": "choose",
     "text": "sandwich",
     "choices": [
-      "adj. 泰国的；泰国人的 n.泰国",
-      "n.照顾；护理 v. 关心；在乎",
-      "v. 拿走：举起",
-      "n. 三明治"
+      "n. 三明治",
+      "adj. 危险的；有危害的",
+      "v. 捡：摘",
+      "v. 捡：摘"
     ],
-    "answer": 3
+    "answer": 0
   },
   {
     "type": "blank",
@@ -132,9 +132,9 @@
     "text": "snake",
     "choices": [
       "n. 蛇",
-      "v. 猜测；估计",
-      "v. 救；储蓄；保存",
-      "照顾；处理"
+      "n. 狐狸",
+      "n. 长颈鹿",
+      "n. 雕；鹰"
     ],
     "answer": 0
   },
@@ -147,10 +147,10 @@
     "type": "choose",
     "text": "scary",
     "choices": [
-      "n. 长颈鹿",
+      "n. 狼",
       "adj. 吓人的；恐怖的",
-      "n. 三明治",
-      "adj. 泰国的；泰国人的 n.泰国"
+      "v. 救；储蓄；保存",
+      "n. 三明治"
     ],
     "answer": 1
   },
@@ -163,12 +163,12 @@
     "type": "choose",
     "text": "neck",
     "choices": [
-      "v. 捡：摘",
-      "n. 鲨鱼",
-      "v. 猜测；估计",
-      "n. 脖子"
+      "n. 企鹅",
+      "n. 脖子",
+      "v. 照顾",
+      "n. 蛇"
     ],
-    "answer": 3
+    "answer": 1
   },
   {
     "type": "blank",
@@ -179,12 +179,12 @@
     "type": "choose",
     "text": "guess",
     "choices": [
-      "n. 脖子",
       "v. 猜测；估计",
-      "adj. 大的；极多的",
-      "n. 长颈鹿"
+      "n. 森林",
+      "n.照顾；护理 v. 关心；在乎",
+      "n. 鲨鱼"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "type": "blank",
@@ -195,12 +195,12 @@
     "type": "choose",
     "text": "shark",
     "choices": [
-      "n. 文化",
-      "照顾；处理",
+      "n.照顾；护理 v. 关心；在乎",
       "n. 鲨鱼",
-      "n. 象鼻"
+      "n. 企鹅",
+      "adj. 泰国的；泰国人的 n.泰国"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
     "type": "blank",
@@ -211,12 +211,12 @@
     "type": "choose",
     "text": "whale",
     "choices": [
-      "adj. 大的；极多的",
-      "n. 象鼻",
       "n. 鲸",
-      "n. 三明治"
+      "n. 长颈鹿",
+      "n. 狼",
+      "v. 捡：摘"
     ],
-    "answer": 2
+    "answer": 0
   },
   {
     "type": "blank",
@@ -228,9 +228,9 @@
     "text": "huge",
     "choices": [
       "adj. 大的；极多的",
-      "n.照顾；护理 v. 关心；在乎",
-      "n. 游泳者",
-      "n. 文化"
+      "照顾；处理",
+      "n. 蛇",
+      "n. 雕；鹰"
     ],
     "answer": 0
   },
@@ -243,12 +243,12 @@
     "type": "choose",
     "text": "Dangerous",
     "choices": [
-      "n. 鲸",
-      "n. 游泳者",
       "adj. 危险的；有危害的",
-      "n. 幸运；运气"
+      "v. 猜测；估计",
+      "adj. 吓人的；恐怖的",
+      "v. 拿：提"
     ],
-    "answer": 2
+    "answer": 0
   },
   {
     "type": "blank",
@@ -259,12 +259,12 @@
     "type": "choose",
     "text": "save",
     "choices": [
-      "v. 拿：提",
-      "n. 鲨鱼",
-      "n. 狼",
-      "v. 救；储蓄；保存"
+      "n. 蛇",
+      "adj. 泰国的；泰国人的 n.泰国",
+      "v. 救；储蓄；保存",
+      "n. 蛇"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
     "type": "blank",
@@ -275,10 +275,10 @@
     "type": "choose",
     "text": "luck",
     "choices": [
-      "n. 脖子",
+      "n. 狐狸",
       "n. 幸运；运气",
-      "n. 游泳者",
-      "n. 蛇"
+      "n. 象鼻",
+      "n. 鲸"
     ],
     "answer": 1
   },
@@ -292,9 +292,9 @@
     "text": "Thai",
     "choices": [
       "adj. 泰国的；泰国人的 n.泰国",
+      "adj. 吓人的；恐怖的",
       "n. 文化",
-      "n. 幸运；运气",
-      "v. 拿：提"
+      "v. 救；储蓄；保存"
     ],
     "answer": 0
   },
@@ -307,12 +307,12 @@
     "type": "choose",
     "text": "trunk",
     "choices": [
-      "n. 企鹅",
       "n. 象鼻",
-      "adj. 大的；极多的",
-      "adj. 大的；极多的"
+      "n. 长颈鹿",
+      "n. 鲸",
+      "n.照顾；护理 v. 关心；在乎"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "type": "blank",
@@ -323,12 +323,12 @@
     "type": "choose",
     "text": "pick",
     "choices": [
-      "n. 三明治",
-      "n. 象鼻",
+      "n. 雕；鹰",
       "v. 捡：摘",
-      "n. 象鼻"
+      "adj. 大的；极多的",
+      "v. 猜测；估计"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
     "type": "blank",
@@ -339,12 +339,12 @@
     "type": "choose",
     "text": "pick up",
     "choices": [
-      "adj. 危险的；有危害的",
-      "n. 象鼻",
-      "v. 拿走：举起",
-      "adj. 危险的；有危害的"
+      "v. 猜测；估计",
+      "n. 狐狸",
+      "n. 狐狸",
+      "v. 拿走：举起"
     ],
-    "answer": 2
+    "answer": 3
   },
   {
     "type": "blank",
@@ -355,12 +355,12 @@
     "type": "choose",
     "text": "carry",
     "choices": [
+      "n. 蛇",
       "v. 拿：提",
-      "n. 三明治",
-      "n. 森林",
-      "v. 照顾"
+      "n. 长颈鹿",
+      "adj. 爱嬉戏的；爱玩的"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "type": "blank",
@@ -371,12 +371,12 @@
     "type": "choose",
     "text": "playful",
     "choices": [
-      "v. 捡：摘",
-      "adj. 爱嬉戏的；爱玩的",
+      "n. 鲸",
+      "n.照顾；护理 v. 关心；在乎",
       "n. 鲨鱼",
-      "n. 长颈鹿"
+      "adj. 爱嬉戏的；爱玩的"
     ],
-    "answer": 1
+    "answer": 3
   },
   {
     "type": "blank",
@@ -388,9 +388,9 @@
     "text": "swimmer",
     "choices": [
       "n. 游泳者",
-      "adj. 大的；极多的",
-      "n. 蛇",
-      "n. 象鼻"
+      "n. 文化",
+      "n. 三明治",
+      "n. 蛇"
     ],
     "answer": 0
   },
@@ -403,10 +403,10 @@
     "type": "choose",
     "text": "forest",
     "choices": [
-      "v. 拿：提",
+      "n. 象鼻",
       "n. 森林",
-      "n. 企鹅",
-      "adj. 吓人的；恐怖的"
+      "n. 狐狸",
+      "n.照顾；护理 v. 关心；在乎"
     ],
     "answer": 1
   },
@@ -419,12 +419,12 @@
     "type": "choose",
     "text": "look after",
     "choices": [
-      "n. 长颈鹿",
+      "adj. 爱嬉戏的；爱玩的",
+      "n. 狼",
       "v. 照顾",
-      "adj. 泰国的；泰国人的 n.泰国",
-      "v. 猜测；估计"
+      "adj. 爱嬉戏的；爱玩的"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
     "type": "blank",
@@ -435,12 +435,12 @@
     "type": "choose",
     "text": "culture",
     "choices": [
-      "v. 救；储蓄；保存",
       "n. 文化",
       "n. 企鹅",
+      "n. 长颈鹿",
       "n. 鲸"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "type": "blank",

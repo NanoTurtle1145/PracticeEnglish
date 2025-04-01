@@ -1,34 +1,34 @@
 [
   {
     "type": "choose",
-    "text": "penguin",
+    "text": "take care of",
     "choices": [
-      "n. 文化",
-      "n. 象鼻",
-      "n. 企鹅",
+      "照顾；处理",
+      "adj. 爱嬉戏的；爱玩的",
+      "adj. 危险的；有危害的",
       "n. 狼"
     ],
-    "answer": 2
+    "answer": 0
   },
   {
     "type": "choose",
-    "text": "forest",
+    "text": "scary",
     "choices": [
-      "v. 拿：提",
-      "n. 森林",
-      "n. 企鹅",
-      "adj. 吓人的；恐怖的"
+      "n. 狼",
+      "adj. 吓人的；恐怖的",
+      "v. 救；储蓄；保存",
+      "n. 三明治"
     ],
     "answer": 1
   },
   {
     "type": "blank",
-    "text": "v. 拿走：举起的英文单词是？",
-    "answer": "pick up"
+    "text": "n. 鲨鱼的英文单词是？",
+    "answer": "shark"
   },
   {
     "type": "blank",
-    "text": "v. 照顾的英文单词是？",
-    "answer": "look after"
+    "text": "adj. 危险的；有危害的的英文单词是？",
+    "answer": "Dangerous"
   }
 ]

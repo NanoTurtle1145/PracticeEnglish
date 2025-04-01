@@ -1,34 +1,34 @@
 [
   {
     "type": "choose",
-    "text": "decide",
+    "text": "real",
     "choices": [
-      "n. 小鸭子",
-      "v. 决定",
-      "adv. 有希望地",
-      "成功做成某事"
+      "adj. 真的；真正的",
+      "赚钱",
+      "咬穿",
+      "n. 皇帝"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "type": "choose",
-    "text": "search for v.",
+    "text": "to sb's surprise",
     "choices": [
-      "adj. 真的；真正的",
-      "寻找；搜寻",
-      "很晚以前",
-      "adj. 符合事实的；真正的"
+      "adv. 快速地；很快",
+      "n. 网；网状物",
+      "adj. 愚蠢的；傻的",
+      "出乎某人的意料"
     ],
-    "answer": 1
+    "answer": 3
   },
   {
     "type": "blank",
-    "text": "起初；最初的英文单词是？",
-    "answer": "at first"
+    "text": "嘲笑的英文单词是？",
+    "answer": "laugh at"
   },
   {
     "type": "blank",
-    "text": "v. 假装；伪装的英文单词是？",
-    "answer": "pretend"
+    "text": "说实话的英文单词是？",
+    "answer": "tell the truth"
   }
 ]

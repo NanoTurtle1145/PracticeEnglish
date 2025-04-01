@@ -1,34 +1,34 @@
 [
   {
     "type": "choose",
-    "text": "succeed in doing sth.",
+    "text": "smile",
     "choices": [
-      "嘲笑",
-      "成功做成某事",
       "寻找；搜寻",
-      "咬穿"
+      "v.使处于某种状态；使开始释放",
+      "赚钱",
+      "v. 微笑，微笑；笑容"
     ],
-    "answer": 1
+    "answer": 3
   },
   {
     "type": "choose",
-    "text": "hen",
+    "text": "genie",
     "choices": [
-      "n.天鹅",
-      "n. 母鸡",
-      "出乎某人的意料",
-      "而不是；代替"
+      "adj. 符合事实的；真正的",
+      "n.羽毛",
+      "走开",
+      "n.妖怪；鬼"
     ],
-    "answer": 1
+    "answer": 3
   },
   {
     "type": "blank",
-    "text": "v.（在愉快时）发出呜呜声的英文单词是？",
-    "answer": "purr"
+    "text": "逃脱；离开的英文单词是？",
+    "answer": "get out"
   },
   {
     "type": "blank",
-    "text": "adv. 突然地；出乎意料地的英文单词是？",
-    "answer": "suddenly"
+    "text": "n. 皇帝的英文单词是？",
+    "answer": "emperor"
   }
 ]

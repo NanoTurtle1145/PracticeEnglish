@@ -1,34 +1,34 @@
 [
   {
     "type": "choose",
-    "text": "Dragon Boat",
+    "text": "sunshine",
     "choices": [
-      "暂缺选项1",
-      "暂缺选项3",
-      "暂缺选项2",
-      "端午节"
-    ],
-    "answer": 3
-  },
-  {
-    "type": "choose",
-    "text": "Dragon Boat",
-    "choices": [
-      "暂缺选项3",
-      "端午节",
-      "暂缺选项1",
-      "暂缺选项2"
+      "adv. 缓慢地",
+      "n. 阳光",
+      "n.边；侧",
+      "v. 把……送至；落下；下降"
     ],
     "answer": 1
   },
   {
-    "type": "blank",
-    "text": "端午节的英文单词是？",
-    "answer": "Dragon Boat"
+    "type": "choose",
+    "text": "such",
+    "choices": [
+      "v. 把……送至；落下；下降",
+      "adj. 鲜艳的；明亮的；聪明的",
+      "adj. 这样的；那样的 pron.这样（那样）的人或事物",
+      "n. 绘画作品；绘画；油画"
+    ],
+    "answer": 2
   },
   {
     "type": "blank",
-    "text": "端午节的英文单词是？",
-    "answer": "Dragon Boat"
+    "text": "n. 地铁的英文单词是？",
+    "answer": "subway"
+  },
+  {
+    "type": "blank",
+    "text": "v. 发光；照耀；n.光亮的英文单词是？",
+    "answer": "shine"
   }
 ]

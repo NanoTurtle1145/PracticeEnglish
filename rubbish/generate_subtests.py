@@ -63,9 +63,14 @@ def generate_subtests():
             choose_qs = [q for q in main_questions if q['type'] == 'choose']
             blank_qs = [q for q in main_questions if q['type'] == 'blank']
             
-            sub_questions.extend(random.sample(choose_qs, 2))
-            sub_questions.extend(random.sample(blank_qs, 2))
-            
+            # 添加安全采样逻辑
+            try:
+                sub_questions.extend(random.sample(choose_qs, min(2, len(choose_qs))))
+                sub_questions.extend(random.sample(blank_qs, min(2, len(blank_qs))))
+            except ValueError as e:
+                print(f"警告：单元 {unit} 的{subtype}题库生成失败，请确保包含至少2个单词（当前：{len(words)}个）")
+                continue
+
             sub_file = main_file.replace(".json", f"-{subtype}.json")
             with open(f"tests/{sub_file}", 'w', encoding='utf-8') as f:
                 json.dump(sub_questions, f, ensure_ascii=False, indent=2)

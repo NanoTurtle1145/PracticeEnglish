@@ -1,17 +1,6 @@
 [
   {
     "type": "choose",
-    "text": "rule",
-    "choices": [
-      "n. 规则；规章",
-      "adv. 也",
-      "n. 秩序，v. 点菜",
-      "n. 秩序，v. 点菜"
-    ],
-    "answer": 0
-  },
-  {
-    "type": "choose",
     "text": "either",
     "choices": [
       "n. 规则；规章",
@@ -22,13 +11,24 @@
     "answer": 1
   },
   {
-    "type": "blank",
-    "text": "adv. 也的英文单词是？",
-    "answer": "either"
+    "type": "choose",
+    "text": "rule",
+    "choices": [
+      "n. 秩序，v. 点菜",
+      "adv. 也",
+      "adv. 也",
+      "n. 规则；规章"
+    ],
+    "answer": 3
   },
   {
     "type": "blank",
     "text": "n. 规则；规章的英文单词是？",
     "answer": "rule"
+  },
+  {
+    "type": "blank",
+    "text": "adv. 也的英文单词是？",
+    "answer": "either"
   }
 ]

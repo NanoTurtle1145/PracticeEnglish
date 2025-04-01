@@ -1,23 +1,23 @@
 [
   {
     "type": "choose",
+    "text": "at the start",
+    "choices": [
+      "adv.还；仍然",
+      "adv.还；仍然",
+      "开始：起初",
+      "adv.还；仍然"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
     "text": "still",
     "choices": [
       "adv.还；仍然",
       "开始：起初",
       "开始：起初",
       "开始：起初"
-    ],
-    "answer": 0
-  },
-  {
-    "type": "choose",
-    "text": "at the start",
-    "choices": [
-      "开始：起初",
-      "adv.还；仍然",
-      "adv.还；仍然",
-      "adv.还；仍然"
     ],
     "answer": 0
   },

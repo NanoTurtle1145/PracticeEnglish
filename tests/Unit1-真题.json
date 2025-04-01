@@ -1,34 +1,34 @@
 [
   {
     "type": "choose",
-    "text": "save",
+    "text": "huge",
     "choices": [
-      "v. 拿：提",
-      "n. 鲨鱼",
-      "n. 狼",
-      "v. 救；储蓄；保存"
+      "adj. 大的；极多的",
+      "照顾；处理",
+      "n. 蛇",
+      "n. 雕；鹰"
     ],
-    "answer": 3
+    "answer": 0
   },
   {
     "type": "choose",
-    "text": "whale",
+    "text": "carry",
     "choices": [
-      "adj. 大的；极多的",
-      "n. 象鼻",
-      "n. 鲸",
-      "n. 三明治"
+      "n. 蛇",
+      "v. 拿：提",
+      "n. 长颈鹿",
+      "adj. 爱嬉戏的；爱玩的"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
     "type": "blank",
-    "text": "n. 幸运；运气的英文单词是？",
-    "answer": "luck"
+    "text": "v. 救；储蓄；保存的英文单词是？",
+    "answer": "save"
   },
   {
     "type": "blank",
-    "text": "n. 象鼻的英文单词是？",
-    "answer": "trunk"
+    "text": "v. 猜测；估计的英文单词是？",
+    "answer": "guess"
   }
 ]

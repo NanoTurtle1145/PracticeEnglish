@@ -77,6 +77,18 @@ pyinstaller -F -w main.py
 最后，打包了。本次打包参数是```-F -w```。所以只有两个文件，一个文件夹。
 
 
+## 2025/4/1 v0.1.7-Alpha
+
+### ♿要点♿
+终于修好了词库的bug。
+以及掉了亿点点头发！！！
+![有罪啊！！！](/rubbish/lbq.jpg)
+本次没有打包哦！
+- 偷偷告诉你
+/rubbish/里面有很多好东西哦！
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2618710186&auto=0&height=66"></iframe>
+
 ## 2025/X/X vX.X.X
 
 ♿🧑‍🦼🧑‍🦼‍➡️👨‍🦼👨‍🦼‍➡️👩‍🦼👩‍🦼‍➡️🧑‍🦽🧑‍🦽‍➡️👨‍🦽👩‍🦽👩‍🦽‍➡️♿🦼🦽

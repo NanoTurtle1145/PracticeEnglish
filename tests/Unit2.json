@@ -3,12 +3,12 @@
     "type": "choose",
     "text": "rule",
     "choices": [
-      "n. 规则；规章",
-      "adv. 也",
       "n. 秩序，v. 点菜",
-      "n. 秩序，v. 点菜"
+      "adv. 也",
+      "adv. 也",
+      "n. 规则；规章"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "type": "blank",
@@ -19,12 +19,12 @@
     "type": "choose",
     "text": "order",
     "choices": [
+      "n. 规则；规章",
       "n. 秩序，v. 点菜",
-      "adv. 也",
       "adv. 也",
       "n. 规则；规章"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "type": "blank",

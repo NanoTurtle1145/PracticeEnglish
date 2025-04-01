@@ -1,0 +1,34 @@
+[
+  {
+    "type": "choose",
+    "text": "coast",
+    "choices": [
+      "adj. 全部的；整个的",
+      "n. 小路；路径",
+      "n. 海岸；海滨",
+      "adj. 当地的；本地的"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "market",
+    "choices": [
+      "n. 海岸；海滨",
+      "n. 市场；集市",
+      "adj. 海岸的；沿海的",
+      "n. 街区；邻近地区"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "n. 岛；岛屿的英文单词是？",
+    "answer": "island"
+  },
+  {
+    "type": "blank",
+    "text": "adv. 在某处；到某处的英文单词是？",
+    "answer": "somewhere"
+  }
+]

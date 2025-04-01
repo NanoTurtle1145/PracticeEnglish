@@ -1,12 +1,428 @@
 [
   {
     "type": "choose",
+    "text": "zone",
+    "choices": [
+      "匆忙",
+      "(上下班时间的)交通高峰期",
+      "n. 地区；地带；区域",
+      "n. 地铁"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "n. 地区；地带；区域的英文单词是？",
+    "answer": "zone"
+  },
+  {
+    "type": "choose",
+    "text": "time zone",
+    "choices": [
+      "n. 绘画作品；绘画；油画",
+      "现在；立刻",
+      "时区",
+      "adj. 色彩鲜艳的"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "时区的英文单词是？",
+    "answer": "time zone"
+  },
+  {
+    "type": "choose",
+    "text": "around the world",
+    "choices": [
+      "世界各地",
+      "adj. 中心的；中央的",
+      "匆忙",
+      "端午节"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "世界各地的英文单词是？",
+    "answer": "around the world"
+  },
+  {
+    "type": "choose",
+    "text": "right now",
+    "choices": [
+      "现在；立刻",
+      "adv. 缓慢地",
+      "v. 发光；照耀；n.光亮",
+      "例如"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "现在；立刻的英文单词是？",
+    "answer": "right now"
+  },
+  {
+    "type": "choose",
+    "text": "rush",
+    "choices": [
+      "n. 冲；奔",
+      "n. 地区；地带；区域",
+      "端午节",
+      "v. 发光；照耀；n.光亮"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "n. 冲；奔的英文单词是？",
+    "answer": "rush"
+  },
+  {
+    "type": "choose",
+    "text": "in a hurry",
+    "choices": [
+      "n.边；侧",
+      "匆忙",
+      "adj. 中心的；中央的",
+      "世界各地"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "匆忙的英文单词是？",
+    "answer": "in a hurry"
+  },
+  {
+    "type": "choose",
+    "text": "shine",
+    "choices": [
+      "n. 旅行；旅游",
+      "v. 发光；照耀；n.光亮",
+      "匆忙",
+      "n. 绘画作品；绘画；油画"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "v. 发光；照耀；n.光亮的英文单词是？",
+    "answer": "shine"
+  },
+  {
+    "type": "choose",
+    "text": "brightly",
+    "choices": [
+      "adv. 明亮地",
+      "n. 地铁",
+      "n. 乘客",
+      "adj. 中心的；中央的"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "adv. 明亮地的英文单词是？",
+    "answer": "brightly"
+  },
+  {
+    "type": "choose",
+    "text": "colourful",
+    "choices": [
+      "n. 地区；地带；区域",
+      "adj. 色彩鲜艳的",
+      "例如",
+      "n. 地铁"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "adj. 色彩鲜艳的的英文单词是？",
+    "answer": "colourful"
+  },
+  {
+    "type": "choose",
+    "text": "slowly",
+    "choices": [
+      "n. 乘客",
+      "n. 乘客",
+      "匆忙",
+      "adv. 缓慢地"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "adv. 缓慢地的英文单词是？",
+    "answer": "slowly"
+  },
+  {
+    "type": "choose",
+    "text": "such",
+    "choices": [
+      "v. 把……送至；落下；下降",
+      "adj. 鲜艳的；明亮的；聪明的",
+      "adj. 这样的；那样的 pron.这样（那样）的人或事物",
+      "n. 绘画作品；绘画；油画"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "adj. 这样的；那样的 pron.这样（那样）的人或事物的英文单词是？",
+    "answer": "such"
+  },
+  {
+    "type": "choose",
+    "text": "such as",
+    "choices": [
+      "例如",
+      "并排；并肩地",
+      "端午节",
+      "v. 把……送至；落下；下降"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "例如的英文单词是？",
+    "answer": "such as"
+  },
+  {
+    "type": "choose",
+    "text": "painting",
+    "choices": [
+      "n. 阳光",
+      "n. 乘客",
+      "并排；并肩地",
+      "n. 绘画作品；绘画；油画"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "n. 绘画作品；绘画；油画的英文单词是？",
+    "answer": "painting"
+  },
+  {
+    "type": "choose",
+    "text": "market",
+    "choices": [
+      "n.市场",
+      "adj. 鲜艳的；明亮的；聪明的",
+      "v. 把……送至；落下；下降",
+      "n. 乘客"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "n.市场的英文单词是？",
+    "answer": "market"
+  },
+  {
+    "type": "choose",
+    "text": "side",
+    "choices": [
+      "n. 绘画作品；绘画；油画",
+      "n.边；侧",
+      "世界各地",
+      "n.市场"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "n.边；侧的英文单词是？",
+    "answer": "side"
+  },
+  {
+    "type": "choose",
+    "text": "side by side",
+    "choices": [
+      "adv. 缓慢地",
+      "n. 乘客",
+      "n. 乘客",
+      "并排；并肩地"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "并排；并肩地的英文单词是？",
+    "answer": "side by side"
+  },
+  {
+    "type": "choose",
+    "text": "subway",
+    "choices": [
+      "n. 地铁",
+      "adj. 色彩鲜艳的",
+      "并排；并肩地",
+      "n. 阳光"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "n. 地铁的英文单词是？",
+    "answer": "subway"
+  },
+  {
+    "type": "choose",
+    "text": "bright",
+    "choices": [
+      "n.边；侧",
+      "adj. 中心的；中央的",
+      "adj. 鲜艳的；明亮的；聪明的",
+      "n.市场"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "adj. 鲜艳的；明亮的；聪明的的英文单词是？",
+    "answer": "bright"
+  },
+  {
+    "type": "choose",
+    "text": "drop",
+    "choices": [
+      "v. 把……送至；落下；下降",
+      "时区",
+      "现在；立刻",
+      "并排；并肩地"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "v. 把……送至；落下；下降的英文单词是？",
+    "answer": "drop"
+  },
+  {
+    "type": "choose",
+    "text": "passenger",
+    "choices": [
+      "n. 阳光",
+      "n. 绘画作品；绘画；油画",
+      "adj. 色彩鲜艳的",
+      "n. 乘客"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "n. 乘客的英文单词是？",
+    "answer": "passenger"
+  },
+  {
+    "type": "choose",
+    "text": "central",
+    "choices": [
+      "n.市场",
+      "adj. 中心的；中央的",
+      "adj. 色彩鲜艳的",
+      "匆忙"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "adj. 中心的；中央的的英文单词是？",
+    "answer": "central"
+  },
+  {
+    "type": "choose",
+    "text": "take part in",
+    "choices": [
+      "n. 绘画作品；绘画；油画",
+      "adj. 中心的；中央的",
+      "v. 把……送至；落下；下降",
+      "参加"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "参加的英文单词是？",
+    "answer": "take part in"
+  },
+  {
+    "type": "choose",
+    "text": "tour",
+    "choices": [
+      "现在；立刻",
+      "n. 阳光",
+      "(上下班时间的)交通高峰期",
+      "n. 旅行；旅游"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "n. 旅行；旅游的英文单词是？",
+    "answer": "tour"
+  },
+  {
+    "type": "choose",
+    "text": "sunshine",
+    "choices": [
+      "adv. 缓慢地",
+      "n. 阳光",
+      "n.边；侧",
+      "v. 把……送至；落下；下降"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "n. 阳光的英文单词是？",
+    "answer": "sunshine"
+  },
+  {
+    "type": "choose",
+    "text": "drive",
+    "choices": [
+      "端午节",
+      "v. 开车；驾驶",
+      "n. 地区；地带；区域",
+      "n. 乘客"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "v. 开车；驾驶的英文单词是？",
+    "answer": "drive"
+  },
+  {
+    "type": "choose",
+    "text": "rush hour",
+    "choices": [
+      "adj. 中心的；中央的",
+      "(上下班时间的)交通高峰期",
+      "参加",
+      "adj. 色彩鲜艳的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "(上下班时间的)交通高峰期的英文单词是？",
+    "answer": "rush hour"
+  },
+  {
+    "type": "choose",
     "text": "Dragon Boat",
     "choices": [
-      "暂缺选项3",
+      "例如",
       "端午节",
-      "暂缺选项1",
-      "暂缺选项2"
+      "n.市场",
+      "现在；立刻"
     ],
     "answer": 1
   },
@@ -19,9 +435,9 @@
     "type": "choose",
     "text": "Dragon Boat",
     "choices": [
-      "暂缺选项1",
-      "暂缺选项3",
-      "暂缺选项2",
+      "adj. 中心的；中央的",
+      "adv. 缓慢地",
+      "现在；立刻",
       "端午节"
     ],
     "answer": 3

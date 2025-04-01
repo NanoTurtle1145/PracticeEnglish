@@ -14,21 +14,21 @@
     "type": "choose",
     "text": "at the start",
     "choices": [
+      "adv.还；仍然",
+      "adv.还；仍然",
       "开始：起初",
-      "adv.还；仍然",
-      "adv.还；仍然",
       "adv.还；仍然"
     ],
-    "answer": 0
-  },
-  {
-    "type": "blank",
-    "text": "adv.还；仍然的英文单词是？",
-    "answer": "still"
+    "answer": 2
   },
   {
     "type": "blank",
     "text": "开始：起初的英文单词是？",
     "answer": "at the start"
+  },
+  {
+    "type": "blank",
+    "text": "adv.还；仍然的英文单词是？",
+    "answer": "still"
   }
 ]
