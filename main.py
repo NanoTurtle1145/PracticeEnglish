@@ -6,7 +6,16 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QApplication
 from PyQt5 import uic  # 添加uic模块导入
-
+from PyQt5.QtCore import QPropertyAnimation, QEasingCurve
+from PyQt5.QtGui import QColor, QPainter
+from PyQt5.QtWidgets import QGraphicsOpacityEffect
+from PyQt5.QtWidgets import QWidget  # 确保QWidget已导入
+from particles import ParticleWidget  # 添加这行导入
+from PyQt5.QtCore import Qt, QPropertyAnimation, QEasingCurve, QRect  # 添加QRect导入
+from PyQt5.QtGui import QColor, QPainter
+from PyQt5.QtWidgets import QApplication, QGraphicsOpacityEffect, QWidget
+from particles import ParticleWidget
+import PyQt5 
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
@@ -28,19 +37,18 @@ class Ui_MainWindow(object):
         self.start.setObjectName("start")
         self.start.clicked.connect(self.start_test)
         
-        # 退出按钮应放在最后
         self.exit_button = QtWidgets.QPushButton("退出")
         self.exit_button.setObjectName("exit")
         self.exit_button.clicked.connect(self.exit_test)
         
-        # 调整控件添加顺序：下拉框 -> 开始按钮 -> 退出按钮
         test_choice_layout.addWidget(self.choose_test)
         test_choice_layout.addWidget(self.start)
         test_choice_layout.addWidget(self.exit_button)
 
         self.label = QtWidgets.QLabel("    Let's Practise English!")
         font = QtGui.QFont()
-        font.setPointSize(10)
+        font.setPointSize(14)  # 加大字号
+        font.setBold(True)    # 加粗
         self.label.setFont(font)
         self.label.setObjectName("label")
 
@@ -243,17 +251,28 @@ class Ui_MainWindow(object):
             self.start.setEnabled(True)
             self.choose_test.setEnabled(True)
             self.text.setText("Your test here...")
+    def show_about_dialog(self):
+        about_dialog = QtWidgets.QDialog()
+        about_dialog.setWindowTitle("关于")
+        layout = QtWidgets.QVBoxLayout()
+        label = QtWidgets.QLabel("Practice English v0.1.7-Alpha\n\n点击十次触发彩蛋")
+        layout.addWidget(label)
+        ok_button = QtWidgets.QPushButton("OK")
+        ok_button.clicked.connect(about_dialog.close)
+        layout.addWidget(ok_button)
+        about_dialog.setLayout(layout)
+        about_dialog.exec_()
 
 
 if __name__ == "__main__":
     QApplication.setAttribute(Qt.AA_EnableHighDpiScaling)
     QApplication.setAttribute(Qt.AA_UseHighDpiPixmaps)
     app = QtWidgets.QApplication(sys.argv)
-
+    
     # 添加样式表
     style_sheet = """
     QMainWindow {
-        background-color: #f0f0f0;
+        background-color: #f0f8ff;
     }
     QLabel {
         font-size: 12px;
@@ -285,7 +304,68 @@ if __name__ == "__main__":
     app.setStyleSheet(style_sheet)
 
     MainWindow = QtWidgets.QMainWindow()
+    
+    # 创建粒子效果部件
+    particle_widget = ParticleWidget(MainWindow)
+    particle_widget.lower()  # 置于底层
+    
     ui = Ui_MainWindow()
     ui.setupUi(MainWindow)
+    
+    # 添加版本号标签
+    version_label = QtWidgets.QLabel("v0.1.7-Alpha", MainWindow)
+    version_label.setStyleSheet("color: #666666; font-size: 10px;")
+    version_label.move(MainWindow.width() - 80, MainWindow.height() - 30)
+    version_label.mousePressEvent = lambda event: ui.show_about_dialog()
+    
     MainWindow.show()
     sys.exit(app.exec_())
+
+
+class MainWindow(QMainWindow):
+    def __init__(self):
+        super().__init__()
+        
+        # 设置半透明窗口
+        self.setWindowFlags(Qt.FramelessWindowHint)
+        self.setAttribute(Qt.WA_TranslucentBackground)
+        
+        # 添加阴影效果
+        self.shadow = QGraphicsDropShadowEffect(self)
+        self.shadow.setBlurRadius(30)
+        self.shadow.setColor(QColor(0, 0, 0, 160))
+        self.shadow.setOffset(0, 0)
+        
+        # 创建中心部件
+        self.central_widget = QWidget()
+        self.central_widget.setObjectName("CentralWidget")
+        self.central_widget.setGraphicsEffect(self.shadow)
+        self.central_widget.setStyleSheet("""
+            #CentralWidget {
+                background: rgba(50, 50, 50, 200);
+                border-radius: 15px;
+            }
+        """)
+        
+        # 添加进入动画
+        self.opacity_effect = QGraphicsOpacityEffect()
+        self.opacity_effect.setOpacity(0)
+        self.setGraphicsEffect(self.opacity_effect)
+        
+        self.fade_in = QPropertyAnimation(self.opacity_effect, b"opacity")
+        self.fade_in.setDuration(800)
+        self.fade_in.setStartValue(0)
+        self.fade_in.setEndValue(0.95)
+        self.fade_in.setEasingCurve(QEasingCurve.InOutQuad)
+        
+    def showEvent(self, event):
+        self.fade_in.start()
+        super().showEvent(event)
+        
+    def paintEvent(self, event):
+        painter = QPainter(self)
+        painter.setRenderHint(QPainter.Antialiasing)
+        painter.fillRect(self.rect(), QColor(0, 0, 0, 0))
+
+    # 添加关于对话框方法到Ui_MainWindow类中（确保在setupUi之后）
+    

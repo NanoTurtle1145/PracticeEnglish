@@ -87,8 +87,11 @@ pyinstaller -F -w main.py
 - 偷偷告诉你
 /rubbish/里面有很多好东西哦！
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2618710186&auto=0&height=66"></iframe>
+## 2025/4/3 v0.1.8-Alpha
 
+### ♿要点♿
+![这是奖励](/rubbish/jl.png)
+这次不打包了，以后也不会打包了
 ## 2025/X/X vX.X.X
 
 ♿🧑‍🦼🧑‍🦼‍➡️👨‍🦼👨‍🦼‍➡️👩‍🦼👩‍🦼‍➡️🧑‍🦽🧑‍🦽‍➡️👨‍🦽👩‍🦽👩‍🦽‍➡️♿🦼🦽

@@ -69,9 +69,17 @@
        <item>
          <!-- 确保exit按钮定义正确 -->
          <widget class="QPushButton" name="exit">
-           <property name="text">
-             <string>退出</string>
-           </property>
+             <property name="geometry">
+                 <rect>
+                     <x>450</x>  <!-- 调整x坐标 -->
+                     <y>90</y>   <!-- 调整y坐标 -->
+                     <width>60</width>  <!-- 减小宽度 -->
+                     <height>25</height>  <!-- 减小高度 -->
+                 </rect>
+             </property>
+             <property name="text">
+                 <string>退出</string>
+             </property>
          </widget>
        </item>
      </layout>
