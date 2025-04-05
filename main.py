@@ -37,15 +37,15 @@ class Ui_MainWindow(object):
         self.start.setObjectName("start")
         self.start.clicked.connect(self.start_test)
         
-        self.exit_button = QtWidgets.QPushButton("退出")
-        self.exit_button.setObjectName("exit")
-        self.exit_button.clicked.connect(self.exit_test)
+        self.stop_button = QtWidgets.QPushButton("停止作答")
+        self.stop_button.setObjectName("stop")
+        self.stop_button.clicked.connect(self.stop_test)
         
         test_choice_layout.addWidget(self.choose_test)
         test_choice_layout.addWidget(self.start)
-        test_choice_layout.addWidget(self.exit_button)
+        test_choice_layout.addWidget(self.stop_button)
 
-        self.label = QtWidgets.QLabel("    Let's Practise English!")
+        self.label = QtWidgets.QLabel("    Let's Practice English!")
         font = QtGui.QFont()
         font.setPointSize(14)  # 加大字号
         font.setBold(True)    # 加粗
@@ -117,8 +117,8 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "PractiseEnglish"))
-        self.label.setText(_translate("MainWindow", "    Let\'s Practise English!"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "PracticeEnglish"))
+        self.label.setText(_translate("MainWindow", "    Let\'s Practice English!"))
         self.start.setText(_translate("MainWindow", "Start!"))
         self.choice1.setText(_translate("MainWindow", "A..."))
         self.choice4.setText(_translate("MainWindow", "D..."))
@@ -234,7 +234,7 @@ class Ui_MainWindow(object):
         self.ans.setEnabled(True)
         self.submit_button.setEnabled(False)  # 初始化时禁用提交按钮
 
-    def exit_test(self):
+    def stop_test(self):
         """中途退出测试"""
         if hasattr(self, 'data') and self.data:
             # 计算当前正确率
@@ -255,7 +255,7 @@ class Ui_MainWindow(object):
         about_dialog = QtWidgets.QDialog()
         about_dialog.setWindowTitle("关于")
         layout = QtWidgets.QVBoxLayout()
-        label = QtWidgets.QLabel("Practice English v0.1.7-Alpha\n\n点击十次触发彩蛋")
+        label = QtWidgets.QLabel("Practice English v0.1.9-Alpha\n阿阿西尼米打击")
         layout.addWidget(label)
         ok_button = QtWidgets.QPushButton("OK")
         ok_button.clicked.connect(about_dialog.close)
@@ -313,7 +313,7 @@ if __name__ == "__main__":
     ui.setupUi(MainWindow)
     
     # 添加版本号标签
-    version_label = QtWidgets.QLabel("v0.1.7-Alpha", MainWindow)
+    version_label = QtWidgets.QLabel("v0.1.9-Alpha", MainWindow)
     version_label.setStyleSheet("color: #666666; font-size: 10px;")
     version_label.move(MainWindow.width() - 80, MainWindow.height() - 30)
     version_label.mousePressEvent = lambda event: ui.show_about_dialog()

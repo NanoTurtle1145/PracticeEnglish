@@ -14,6 +14,32 @@
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <layout class="QHBoxLayout" name="test_choice_layout">
+      <item>
+       <widget class="QComboBox" name="choose_test"/>
+      </item>
+      <item>
+       <widget class="QPushButton" name="start">
+        <property name="text">
+         <string>Start!</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="stop">
+        <property name="text">
+         <string>停止作答</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <widget class="QLabel" name="label"/>
+    </item>
+   </layout>
    <widget class="QComboBox" name="choose_test">
     <property name="geometry">
      <rect>
@@ -39,51 +65,9 @@
      </font>
     </property>
     <property name="text">
-     <string>    Let's Practise English!</string>
+     <string>    Let's Practice English!</string>
     </property>
    </widget>
-   <!-- 在原有布局中找到测试选择部分的 hbox 布局 -->
-   <layout class="QHBoxLayout" name="test_choice_layout">
-     <item>
-       <widget class="QComboBox" name="choose_test"/>
-     </item>
-     <item>
-       <widget class="QPushButton" name="start">
-         <property name="text">
-           <string>Start!</string>
-         </property>
-       </widget>
-     </item>
-     <!-- 在 QHBoxLayout 布局中添加退出按钮 -->
-     <layout class="QHBoxLayout" name="test_choice_layout">
-       <item>
-         <widget class="QComboBox" name="choose_test"/>
-       </item>
-       <item>
-         <widget class="QPushButton" name="start">
-           <property name="text">
-             <string>Start!</string>
-           </property>
-         </widget>
-       </item>
-       <item>
-         <!-- 确保exit按钮定义正确 -->
-         <widget class="QPushButton" name="exit">
-             <property name="geometry">
-                 <rect>
-                     <x>450</x>  <!-- 调整x坐标 -->
-                     <y>90</y>   <!-- 调整y坐标 -->
-                     <width>60</width>  <!-- 减小宽度 -->
-                     <height>25</height>  <!-- 减小高度 -->
-                 </rect>
-             </property>
-             <property name="text">
-                 <string>退出</string>
-             </property>
-         </widget>
-       </item>
-     </layout>
-   </layout>
    <widget class="QPushButton" name="choice1">
     <property name="geometry">
      <rect>
@@ -166,7 +150,7 @@
      <x>0</x>
      <y>0</y>
      <width>592</width>
-     <height>22</height>
+     <height>33</height>
     </rect>
    </property>
   </widget>
